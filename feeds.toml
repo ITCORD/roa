@@ -1,0 +1,9 @@
+[roa_news]
+title = "로아리포트 ─ 분아별 동향 ─ 전체"
+url = "https://report.roa.ai/news"
+entrySelector = "div.articleItems article.articleItem__card"
+titleSelector = "a.title"
+linkSelector = "a.title"
+contentSelector = "div.articleItem__Col--right p"
+imageSelector = "figure.articleItem__Col--left"
+waitUntil = "networkidle"
