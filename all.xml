@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-27T01:10:16.153Z</updated>
+    <updated>2022-01-27T02:33:20.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트의 액티비전 블리자드 인수, 게임 산업 재편의 신호탄일까? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172493</id>
+        <link href="https://report.roa.ai/article/172493"/>
+        <updated>2022-01-27T02:33:19.725Z</updated>
+        <content type="html"><![CDATA[지난 19일, 마이크로소프트가 대형 게임 제작 업체인 액티비전 블리자드(Activision Blizzard)를 687억 달러에 인수한다고 발표했습니다. 마이크로소프트의 47년 역사상 가장 큰 규모의 인수임은 물론이고, 빅테크 기업들의 그 간의 인수 히스토리를 살펴 보더라도 단연 최대 규모 인수이기 때문에, 인수 배경이나 향후 계획 등에 업계의 이목이 집중되]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성장세에 접어든 핀테크 기업들이 보여주는 공통적인 움직임은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172489</id>
@@ -101,12 +108,5 @@
         <link href="https://report.roa.ai/article/172466"/>
         <updated>2022-01-26T14:57:41.071Z</updated>
         <content type="html"><![CDATA[매년 미국에서는 추수감사절 이후부터 대규모 쇼핑 시즌이 시작되는데요. 미국 소매업체들은 한 해 동안 묵은 재고를 처리할 수 있고, 소비자들은 평소에 필요했던 제품을 대폭 할인된 가격에 구매할 수 있는 기회로, 크게 블랙 프라이데이(Black Friday)*와 사이버 먼데이(Cyber Monday)**라고 불리는 할인 행사가 열립니다.하지만, 올해 블랙 프라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자 시장의 새로운 성장동력으로 부상한 MZ 세대, 이들의 투자 성향은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172462</id>
-        <link href="https://report.roa.ai/article/172462"/>
-        <updated>2022-01-26T14:57:41.073Z</updated>
-        <content type="html"><![CDATA[최근 가장 영향력 있는 금융 컨퍼런스 중 하나인 '밀켄 연구소 글로벌 컨퍼런스(Milken Institute Global Conference)'*가 LA에서 개최되었습니다. 올해로 8회 차를 맞이하는 이번 컨퍼런스에서는 전세계 전문가 및 리더들이 밀레니얼 세대(25세~40세)와 Z세대(18세~24세)가 금융 시장을 이끌어가고 있을 뿐만 아니라, 트렌드를 변]]></content>
     </entry>
 </feed>
