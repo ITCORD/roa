@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-02-07T06:25:26.535Z</updated>
+    <updated>2022-02-07T07:19:41.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 1월 4주차~2월 1주차 - 위스크에어로(Wisk Aero), 바티 에어텔(Bharti Airtel), GM 크루즈(Cruise)]]></title>
+        <id>https://report.roa.ai/article/172494</id>
+        <link href="https://report.roa.ai/article/172494"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1월 넷째주(1월 24~30일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 50개 기업으로 조사됩니다 (* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)아래는 50개 기업 중, 투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한 표입니다. 보잉, 자율주행에 초점을 맞춘 eVOTL 스타트업 위스크 에어로(Wisk]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 투자 브리핑] 1월 3주차 국내 스타트업 투자유치 동향]]></title>
         <id>https://report.roa.ai/article/172492</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172467"/>
         <updated>2021-12-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[로아리포트에서는 더 많은 분들에게 다가가기 위해 네이버 포스트와 브런치를 통해서도 소식을 전해드리고 있는데요. 로아리포트의 아티클들을 좀 더 쉽고 읽기 편하도록 풀어낸 이 글들을, 로아리포트를 통해서도 만나보실 수 있도록 '월간 리포트' 시리즈를 준비해 보았습니다. '월간 리포트'에는 이달에 올라온 로아의 네이버 포스트 및 브런치 글들과 함께, ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 투자 브리핑] 11월 4주차 국내 스타트업 투자유치 동향]]></title>
-        <id>https://report.roa.ai/article/172464</id>
-        <link href="https://report.roa.ai/article/172464"/>
-        <updated>2021-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[11월 넷째 주, 보도자료를 기반으로 로아인텔리전스가 취합한 내용에 따르면 국내에서는 총 22건의 스타트업 투자와 4건의 인수합병이 이루어졌습니다.출처: 언론 보도 내용, 로아인텔리전스 취합큰 규모의 투자유치 이뤄낸 신테카바이오·TFJ글로벌지난주 가장 큰 규모의 투자를 유치한 사업자는 인공지능 기반의 신약개발 플랫폼 기업인 신테카바이오(syntekabio)]]></content>
     </entry>
 </feed>
