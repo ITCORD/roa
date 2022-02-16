@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T04:27:47.657Z</updated>
+    <updated>2022-02-16T05:19:00.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[수직농업, 역대 최대규모 투자 유치부터 역대 최대 실내 농장 구축 계획까지 발표하며 급성장 중 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172498</id>
+        <link href="https://report.roa.ai/article/172498"/>
+        <updated>2022-02-16T05:18:51.506Z</updated>
+        <content type="html"><![CDATA[주지하다시피, 기술의 발달은 전 산업에 걸쳐 많은 것을 진화시켰는데요. 자연 환경에 크게 영향을 받는 농업도 기술의 진보에 빗겨가지 않았습니다. 얼마 전, 스마트팜 스타트업 플렌티(Plenty)가 실내농업 분야에서 역대 최대 규모의 투자금(4억 달러)을 조달했다는 소식에 이어, 또 다른 수직농업 스타트업 업워드 팜스(Upward Farms]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CB Insights 선정 올해 주목해야 할 테크 트렌드 Top 12 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172496</id>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172470"/>
         <updated>2022-01-26T14:57:41.060Z</updated>
         <content type="html"><![CDATA[이달 2일(현지시각), 동남아시아의 대표적인 슈퍼앱 사업자인 그랩(Grab)이 SPAC 상장을 통해 나스닥에 데뷔했는데요. 그랩에 거의 400억달러의 기업가치를 인정한 역대 최대규모 SPAC 상장이었던데 비해, 거래 첫 날 성적은 다소 실망스러웠습니다. 상장 첫 날 전일 거래가였던 11.01 달러 대비 19% 높은 13.06 달러로 시초가를 형성한 그랩은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타와 경쟁? 메타버스 구축의 인프라가 되려는 마이크로소프트의 '큰그림' (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172465</id>
-        <link href="https://report.roa.ai/article/172465"/>
-        <updated>2022-01-26T14:57:41.069Z</updated>
-        <content type="html"><![CDATA[올해 들어 꾸준히 지속되던 메타버스 붐이 페이스북(Facebook)이 메타버스 비전을 전면에 내세운 메타(Meta)로 사명까지 변경하고 나서며 더욱더 증폭되고 있습니다. 올해 초 로블록스(Roblox)의 상장과 함께 메타버스 게임이나 포트나이트(Fortnite) 내에서의 가상 콘서트, 제페토 내에 구현된 구찌 쇼룸 등 컨수머향 메타버스 서비스들이 화제를 모]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 투자 브리핑] 2월 2주차 - 위믹스 '먹튀' 논란에도 불구하고 웹 3.0 게임 투자 러시 지속 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
