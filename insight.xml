@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-02-23T02:37:36.490Z</updated>
+    <updated>2022-02-23T03:22:34.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 2월 3주차 - 문샷 vs ADAS, 국내로 옮겨온 자율주행 진영 경쟁]]></title>
+        <id>https://report.roa.ai/article/172503</id>
+        <link href="https://report.roa.ai/article/172503"/>
+        <updated>2022-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2월 셋째주(2월 14~20일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 34건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다. 2월 3주차 투자 유치 스타트업 (투자 유치 금액순)소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 2월 3주차 - 사이버보안 / 마케팅테크 / 배터리소재 발굴 스타트업까지 주목]]></title>
         <id>https://report.roa.ai/article/172502</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172480"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021년 12월 넷째 주(20~24일), 크런치베이스 데이터에 의하면 메가라운드투자를 유치한 글로벌 기업은 총 49개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)이 중에서 주요 테크 외신 등에서 다룬 주목되는 투자유치 기업들을 정리하면 하기와 같습니다.인도 스타트업 투자 붐 속에, 인도판 스트라이프(Stripe)로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 투자 브리핑] 12월 3주차 국내 스타트업 투자유치 동향]]></title>
-        <id>https://report.roa.ai/article/172479</id>
-        <link href="https://report.roa.ai/article/172479"/>
-        <updated>2021-12-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021년 12월 셋째 주(13일~19일), 보도자료를 기반으로 로아인텔리전스가 취합한 내용에 따르면 국내에서는 총 45건의 투자가 이뤄졌습니다.출처: 국내 언론보도 내용, 로아인텔리전스 취합그 중 IT(정보기술) 분야가 총 16건(35.6%)으로 가장 많은 비중을 차지했고, 미디어 분야가 12건(26.7%)으로 뒤를 이었습니다. 그 외 커머스와 헬스케어]]></content>
     </entry>
 </feed>
