@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-02-23T05:19:04.825Z</updated>
+    <updated>2022-02-23T06:26:56.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[블록체인 기반 금융 시스템, 디파이(DeFi) 파헤치기]]></title>
+        <id>https://report.roa.ai/article/172504</id>
+        <link href="https://report.roa.ai/article/172504"/>
+        <updated>2022-02-23T06:26:46.830Z</updated>
+        <content type="html"><![CDATA[주지하시다시피 NFT 및 비트코인 등은 최근 쉽게 접할 수 있는 가상 자산을 의미하는 용어들인데요. 이러한 가상 자산들은 블록체인을 기반으로 구축된 암호화폐로, 이를 거래하기 위한 다양한 형태의 암호화폐 거래소들이 등장하고 있습니다. 즉, 전통적인 은행의 대안으로 '디파이(Defi)'라고 하는 새로운 종류의 금융 시스템이 부상하고 있는 것인데요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수직농업 날개 달았다, 최대 규모 투자유치와 최대 규모의 실내농장 구축계획 발표]]></title>
         <id>https://report.roa.ai/article/172498</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172469"/>
         <updated>2022-01-26T15:39:12.294Z</updated>
         <content type="html"><![CDATA[바야흐로 노트북과 와이파이 연결만 있으면 돈을 벌 수 있는 시대가 도래했습니다. 이커머스의 성장세와 함께 이른바 '드랍 시핑(Drop shipping)'이라고 하는 비즈니스 모델이 부상하고 있는 것입니다. 이제 판매할 물품을 선정하고, 웹사이트만 구축하면 누구나 부업으로 주당 수백 달러에서 수 천 달러까지 수익을 얻을 수 있는데요. 누구나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국으로 옮겨가는 슈퍼앱 경쟁, "미국 슈퍼앱 시장 승자가 기업가치 5조 달러 달성할 것"]]></title>
-        <id>https://report.roa.ai/article/172470</id>
-        <link href="https://report.roa.ai/article/172470"/>
-        <updated>2022-01-26T15:39:12.294Z</updated>
-        <content type="html"><![CDATA[이달 2일(현지시각), 동남아시아의 대표적인 슈퍼앱 사업자인 그랩(Grab)이 SPAC 상장을 통해 나스닥에 데뷔했는데요. 그랩에 거의 400억달러의 기업가치를 인정한 역대 최대규모 SPAC 상장이었던데 비해, 거래 첫 날 성적은 다소 실망스러웠습니다. 상장 첫 날 전일 거래가였던 11.01 달러 대비 19% 높은 13.06 달러로 시초가를 형성한 그랩은]]></content>
     </entry>
 </feed>
