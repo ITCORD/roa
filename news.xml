@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-02-28T10:25:09.918Z</updated>
+    <updated>2022-02-28T11:18:39.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프랑스 정부가 전폭적으로 지지하는 스타트업들]]></title>
+        <id>https://report.roa.ai/article/172505</id>
+        <link href="https://report.roa.ai/article/172505"/>
+        <updated>2022-02-28T11:18:30.224Z</updated>
+        <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]매년 초, 프랑스 정부는 스타트업 랭킹인 '넥스트 40(Next 40)'와 '프렌치 테크 120(French Tech]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블록체인 기반 금융 시스템, 디파이(DeFi) 파헤치기]]></title>
         <id>https://report.roa.ai/article/172504</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172474"/>
         <updated>2022-01-26T15:39:12.291Z</updated>
         <content type="html"><![CDATA[이달 6일(현지시각) SPAC 계약을 통해 나스닥에 상장된 버즈피드(BuzzFeed)가 처참한 성적표를 받아들었습니다. 거래 첫 주였던 지난주, 39% 하락한 가격인 주당 6.07 달러로 장을 마쳤던 버즈피드의 주가는 주초 추가하락을 거쳐 현재(15일 종가 기준)는 6.26 달러까지 소폭 상승했으나, 여전히 공모가를 크게 밑도는 가격에 거래되고 있는 상태로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떠오르는 이커머스 트렌드, 드랍 시핑이란?]]></title>
-        <id>https://report.roa.ai/article/172469</id>
-        <link href="https://report.roa.ai/article/172469"/>
-        <updated>2022-01-26T15:39:12.294Z</updated>
-        <content type="html"><![CDATA[바야흐로 노트북과 와이파이 연결만 있으면 돈을 벌 수 있는 시대가 도래했습니다. 이커머스의 성장세와 함께 이른바 '드랍 시핑(Drop shipping)'이라고 하는 비즈니스 모델이 부상하고 있는 것입니다. 이제 판매할 물품을 선정하고, 웹사이트만 구축하면 누구나 부업으로 주당 수백 달러에서 수 천 달러까지 수익을 얻을 수 있는데요. 누구나]]></content>
     </entry>
 </feed>
