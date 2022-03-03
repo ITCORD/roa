@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-03T01:24:57.720Z</updated>
+    <updated>2022-03-03T02:47:27.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[메타버스 통해 수익화 증대 모색하는 소매 업체들 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172506</id>
+        <link href="https://report.roa.ai/article/172506"/>
+        <updated>2022-03-03T02:47:18.445Z</updated>
+        <content type="html"><![CDATA[메타버스, 가상화폐 등 가상세계에 대한 관심이 전 세계적으로 뜨거운 가운데, 최근 포에버 21(Forever 21), 나이키(Nike) 및 치폴레(Chipotle) 등의 소매 업체들이 이윤 증대에 도움이 될 것으로 기대하며 디지털 세계에 가상 매장을 구축했다는 소식들이 속속 전해지고 있습니다.소매 업체로 확대되고 있는 메타버스가 일시적인 현상일지, 과대 광]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[테크인파리] 프랑스 정부가 전폭적으로 지지하는 스타트업들 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172505</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[웹 3.0, 암호화폐, NFT 등 올해 핫했던 키워드가 아닐까 싶은데요. 암호화를 빼놓고는 미래 사회를 논할 수 없을 것으로 보여지는 가운데, 이번 로아 리포트에서는 올 한 해 동안 급부상한 NTF(Non-fungible token, 대체 불가능 토큰)에 대해 크게 개념, 종류, 거래 방법, 향후 전망으로 나누어 다뤄보고자 합니다]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['업계 최초 상장' 버즈피드의 과제,  "버즈피드의 운명이 디지털 미디어 업계의 미래 좌우할 것" (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172474</id>
-        <link href="https://report.roa.ai/article/172474"/>
-        <updated>2022-01-26T14:57:41.057Z</updated>
-        <content type="html"><![CDATA[이달 6일(현지시각) SPAC 계약을 통해 나스닥에 상장된 버즈피드(BuzzFeed)가 처참한 성적표를 받아들었습니다. 거래 첫 주였던 지난주, 39% 하락한 가격인 주당 6.07 달러로 장을 마쳤던 버즈피드의 주가는 주초 추가하락을 거쳐 현재(15일 종가 기준)는 6.26 달러까지 소폭 상승했으나, 여전히 공모가를 크게 밑도는 가격에 거래되고 있는 상태로]]></content>
+        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 2월 4주차 - 해외 투자자도 주목하는 'AI휴먼', 페퍼와는 다른 길 걸을까? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172507</id>
+        <link href="https://report.roa.ai/article/172507"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2월 넷째주(2월 21~27일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 23건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다. 2월 4주차 투자 유치 스타트업 (투자 유치 금액순)&amp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 투자 브리핑] 2월 3주차 - 문샷 vs ADAS, 국내로 옮겨온 자율주행 진영 경쟁 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -206,12 +213,5 @@
         <link href="https://report.roa.ai/article/172484"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년을 시작하는 1월 첫째 주(1월 3~7일), 크런치베이스 데이터에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 총 20개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)이 중에서 주요 테크 외신 등에서 다룬 주목되는 투자유치 기업들을 정리하면 하기와 같습니다.온라인 화이트보드 및 시각적 협업 플랫폼 개발사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 투자 브리핑] 12월 4주차 글로벌 스타트업 투자유치 동향 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172480</id>
-        <link href="https://report.roa.ai/article/172480"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021년 12월 넷째 주(20~24일), 크런치베이스 데이터에 의하면 메가라운드투자를 유치한 글로벌 기업은 총 49개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)이 중에서 주요 테크 외신 등에서 다룬 주목되는 투자유치 기업들을 정리하면 하기와 같습니다.인도 스타트업 투자 붐 속에, 인도판 스트라이프(Stripe)로]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-03-03T01:24:57.719Z</updated>
+    <updated>2022-03-03T02:47:27.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스 통해 수익화 증대 모색하는 소매 업체들]]></title>
+        <id>https://report.roa.ai/article/172506</id>
+        <link href="https://report.roa.ai/article/172506"/>
+        <updated>2022-03-03T02:47:18.445Z</updated>
+        <content type="html"><![CDATA[메타버스, 가상화폐 등 가상세계에 대한 관심이 전 세계적으로 뜨거운 가운데, 최근 포에버 21(Forever 21), 나이키(Nike) 및 치폴레(Chipotle) 등의 소매 업체들이 이윤 증대에 도움이 될 것으로 기대하며 디지털 세계에 가상 매장을 구축했다는 소식들이 속속 전해지고 있습니다.소매 업체로 확대되고 있는 메타버스가 일시적인 현상일지, 과대 광]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[테크인파리] 프랑스 정부가 전폭적으로 지지하는 스타트업들]]></title>
         <id>https://report.roa.ai/article/172505</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172475"/>
         <updated>2022-01-26T15:39:12.291Z</updated>
         <content type="html"><![CDATA[웹 3.0, 암호화폐, NFT 등 올해 핫했던 키워드가 아닐까 싶은데요. 암호화를 빼놓고는 미래 사회를 논할 수 없을 것으로 보여지는 가운데, 이번 로아 리포트에서는 올 한 해 동안 급부상한 NTF(Non-fungible token, 대체 불가능 토큰)에 대해 크게 개념, 종류, 거래 방법, 향후 전망으로 나누어 다뤄보고자 합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['업계 최초 상장' 버즈피드의 과제,  "버즈피드의 운명이 디지털 미디어 업계의 미래 좌우할 것"]]></title>
-        <id>https://report.roa.ai/article/172474</id>
-        <link href="https://report.roa.ai/article/172474"/>
-        <updated>2022-01-26T15:39:12.291Z</updated>
-        <content type="html"><![CDATA[이달 6일(현지시각) SPAC 계약을 통해 나스닥에 상장된 버즈피드(BuzzFeed)가 처참한 성적표를 받아들었습니다. 거래 첫 주였던 지난주, 39% 하락한 가격인 주당 6.07 달러로 장을 마쳤던 버즈피드의 주가는 주초 추가하락을 거쳐 현재(15일 종가 기준)는 6.26 달러까지 소폭 상승했으나, 여전히 공모가를 크게 밑도는 가격에 거래되고 있는 상태로]]></content>
     </entry>
 </feed>
