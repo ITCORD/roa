@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-03-07T07:21:03.963Z</updated>
+    <updated>2022-03-07T08:26:29.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
-        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 2월 4주차~3월 1주차]]></title>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 2월 4주차~3월 1주차-글로벌 공급망 및 친환경 투자가 이어져]]></title>
         <id>https://report.roa.ai/article/172509</id>
         <link href="https://report.roa.ai/article/172509"/>
         <updated>2022-03-07T00:00:00.000Z</updated>
