@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-03-21T06:29:39.464Z</updated>
+    <updated>2022-03-21T07:23:19.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 3월 3주차 - 성장 기회 및 혁신 요소가 풍부한 온라인 채용 플랫폼]]></title>
+        <id>https://report.roa.ai/article/172516</id>
+        <link href="https://report.roa.ai/article/172516"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[3월 셋째주(3월 14일~20일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 32개 기업으로 조사됩니다.
+
+(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)
+
+ 
+
+아래는 32개 기업
+중, 투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한
+표입니다. 
+
+ 
+
+3월 3주차 투자 유치 스타트업 (금액]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 투자 브리핑] 3월 2주차 - 해외 휩쓴 애그리게이터 트렌드, 국내에도 확산 본격화]]></title>
         <id>https://report.roa.ai/article/172514</id>
@@ -102,12 +121,5 @@
         <link href="https://report.roa.ai/article/172495"/>
         <updated>2022-02-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[1월 넷째주(1월 24~30일)와 명절 연휴였던 2월 첫째주(1월 31~2월 6일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 각각 33건과 15건의 투자가 이루어졌습니다. 아래는 1월 넷째주와 2월 첫째주에 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 각각 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 1월 4주차~2월 1주차 - 위스크에어로(Wisk Aero), 바티 에어텔(Bharti Airtel), GM 크루즈(Cruise)]]></title>
-        <id>https://report.roa.ai/article/172494</id>
-        <link href="https://report.roa.ai/article/172494"/>
-        <updated>2022-02-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1월 넷째주(1월 24~30일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 50개 기업으로 조사됩니다 (* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)아래는 50개 기업 중, 투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한 표입니다. 1월 4주차 투자유치 기업 상위 10곳보잉, 자율주행에 초점을 맞춘 eV]]></content>
     </entry>
 </feed>
