@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-03-23T23:23:57.595Z</updated>
+    <updated>2022-03-24T01:41:51.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 전용칩 제작 스타트업들에 찾아온 봄...투자 활황]]></title>
+        <id>https://report.roa.ai/article/172518</id>
+        <link href="https://report.roa.ai/article/172518"/>
+        <updated>2022-03-24T01:41:41.759Z</updated>
+        <content type="html"><![CDATA[지난 해, 전 세계적인 컴퓨터 칩 부족 사태로 자동차에서 로보틱스 및 가전제품에 이르기까지 핵심 부품인 반도체를 공급받지 못해 어려움을 겪으며 공급망이 마비된 바 있는데요. 현재 전 산업에 걸쳐 인공지능(Artificial Intelligence, AI) 활용이 가속화되며 AI 칩에 대한 수요 역시 증가하자, 이제 투자자들이 AI 어플리케]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 수면위로 떠오른 NFT 버블 붕괴 가능성, 이미 한계 도달했나?]]></title>
         <id>https://report.roa.ai/article/172515</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172481"/>
         <updated>2022-01-26T15:39:12.280Z</updated>
         <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]VC업체이자 스카이프의 공동 창업자 니클라스 젠스토롬(Niklas Zennström)이 설립한 것으로도 유명한 아토미코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업계 임원 10명이 뽑은 2022년 미디어 트렌드 10선, "내년은 콘솔리데이션(Consolidation)의 해"]]></title>
-        <id>https://report.roa.ai/article/172478</id>
-        <link href="https://report.roa.ai/article/172478"/>
-        <updated>2022-01-26T15:39:12.280Z</updated>
-        <content type="html"><![CDATA[매년 이맘때쯤되면 언론사마다 새해 전망을 쏟아내곤 하는 것이 통상의 관례입니다. CNBC의 경우, 올해 내년도 미디어 업계 전망과 관련해 직접 전망을 내놓는 대신, 익명을 조건으로 미디어 업계 임원 열 명을 인터뷰하여 2022년에 대한 이들의 전망을 청취하는 특집 기사를 공개했는데요. CNBC가 임원들에게 제시한 조건은 미디어 및 엔터테인먼트와 관련된 내용]]></content>
     </entry>
 </feed>
