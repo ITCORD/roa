@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-03-31T07:21:45.483Z</updated>
+    <updated>2022-03-31T08:25:05.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA['게임의 미래는 클라우드'…개발부터 플레이까지, 게임 업계 클라우드 적용 확대]]></title>
+        <id>https://report.roa.ai/article/172522</id>
+        <link href="https://report.roa.ai/article/172522"/>
+        <updated>2022-03-31T08:24:57.345Z</updated>
+        <content type="html"><![CDATA[올해 게임에 대한 빅테크 기업들의 관심이 유독 뜨겁습니다. 연초에는 특히 마이크로소프트(Microsoft)가 액티비전 블리자드(Activision Blizzard)를 687억 달러에 인수한데 이어, 콘솔 업계 최대 라이벌인 소니(Sony)가 엑스박스(Xbox) 대표타이틀 헤일로(Halo)와 데스티니(Destiny)의 개발사 번지(Bungie)를 인수하며 게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유명 NFT 인수에 이어 암호화폐 출시한 BAYC NFT 제작업체 유가랩스, 이제 자체 메타버스 구축한다]]></title>
         <id>https://report.roa.ai/article/172521</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172483"/>
         <updated>2022-01-26T15:39:12.280Z</updated>
         <content type="html"><![CDATA[다수의 기업들이 충성도 높은 고객을 유치하기 위한 수단으로서 고객관리 서비스를 이용해 왔는데요. 최근, 마이크로소프트(Microsoft)와 세일즈포스(Salesforce) 등의 거대 SW사업자들이 자사 고객관리 솔루션이 제공하는 모든 프로세스를 한 곳에서 효율적으로 처리할 수 있는 "원스탑(One-stop) 고객 서비스 센터"를 구축하기 위해 노력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓부터 배양육 스타트업까지, 2022년이 기대되는 이유]]></title>
-        <id>https://report.roa.ai/article/172482</id>
-        <link href="https://report.roa.ai/article/172482"/>
-        <updated>2022-01-26T15:39:12.280Z</updated>
-        <content type="html"><![CDATA[올해는 스타트업들에 대한 VC 업체들의 투자가 기록적인 해였는데요. 핀테크, 헬스 테크 및 사이버보안 부문의 지속적인 인기와 더불어 핵융합, 대체 단백질 및 크리에이터를 위한 금융 툴 등의 플랫폼들이 대규모의 자금을 조달하며 새롭게 부상하는 모습을 보였습니다. 이들 부문은 올해 전체 투자에서 최대 규모의 자금을 유치하지는 않았으나, 올해의 성장세로]]></content>
     </entry>
 </feed>
