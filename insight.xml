@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-04-05T09:22:01.379Z</updated>
+    <updated>2022-04-05T10:22:59.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
-        <title type="html"><![CDATA[빠르게 부상하고 있는 '탄소 회계 플랫폼']]></title>
+        <title type="html"><![CDATA[[테크인파리] 빠르게 부상하고 있는 '탄소 회계 플랫폼']]></title>
         <id>https://report.roa.ai/article/172523</id>
         <link href="https://report.roa.ai/article/172523"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
