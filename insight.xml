@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-04-08T07:22:45.545Z</updated>
+    <updated>2022-04-08T08:27:04.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[월간 투자 브리핑] 2022년 3월 국내 스타트업 투자유치 동향]]></title>
+        <id>https://report.roa.ai/article/172527</id>
+        <link href="https://report.roa.ai/article/172527"/>
+        <updated>2022-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[3월 투자동향 총 투자건수 &amp; 금액로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면, 3월 첫째주(2월 28일~3월 6일)부터 3월 다섯째 주(3월 28~4월 3일)까지, 총 5주(2월 28일~4월 3일)간 투자 건수는 총 149건입니다. 이 중 투자 금액을 공개한 경우는 96 건으로, 공개된 총 투자금액은 2조 436억 원입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 이슈 브리핑] 공격적 행보에 나선 SK와 카카오에 주목]]></title>
         <id>https://report.roa.ai/article/172528</id>
@@ -116,12 +123,5 @@
         <link href="https://report.roa.ai/article/172507"/>
         <updated>2022-03-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2월 넷째주(2월 21~27일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 23건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다. 2월 4주차 투자 유치 스타트업 (투자 유치 금액순)&amp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 2월 3주차 - 문샷 vs ADAS, 국내로 옮겨온 자율주행 진영 경쟁]]></title>
-        <id>https://report.roa.ai/article/172503</id>
-        <link href="https://report.roa.ai/article/172503"/>
-        <updated>2022-02-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2월 셋째주(2월 14~20일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 34건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다. 2월 3주차 투자 유치 스타트업 (투자 유치 금액순)소]]></content>
     </entry>
 </feed>
