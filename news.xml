@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-04-08T05:20:53.163Z</updated>
+    <updated>2022-04-08T06:27:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://report.roa.ai/article/172526"/>
         <updated>2022-04-07T01:42:05.528Z</updated>
         <content type="html"><![CDATA[주지하다시피, 코로나 팬데믹 기간동안 외부 출입 제한으로 혜택을 받은 산업 중 하나가 바로 배송 산업입니다. 지난 1년 동안 미국 및 일부 유럽 지역에 우후죽순 등장했던, 식료품 및 편의용품을 15분 내로 초고속 배송하는 업체들이 최근 투자금 유치에 대한 어려움을 겪고 있을 뿐만 아니라, 줄줄이 폐업 소식을 전하기 시작했습니다. 앞서 로아 리포트에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[테크인파리] 빠르게 부상하고 있는 '탄소 회계 플랫폼']]></title>
+        <id>https://report.roa.ai/article/172523</id>
+        <link href="https://report.roa.ai/article/172523"/>
+        <updated>2022-04-08T06:27:46.678Z</updated>
+        <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]최근 샐러드용 파마산 치즈가루의 탄소 발자국을 측정하는 워터셰드 테크놀로지(Watershed Technology)가 투]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['게임의 미래는 클라우드'…개발부터 플레이까지, 게임 업계 클라우드 적용 확대]]></title>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172487"/>
         <updated>2022-01-26T15:39:12.279Z</updated>
         <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]지난 주는 프랑스 스타트업 업계가 떠들썩했습니다. 백마켓(BackMarket)과 콘토(Qonto)가 5억 달러 이상의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 이커머스 트렌드 네 가지는?]]></title>
-        <id>https://report.roa.ai/article/172485</id>
-        <link href="https://report.roa.ai/article/172485"/>
-        <updated>2022-01-26T15:39:12.280Z</updated>
-        <content type="html"><![CDATA[새로운 해를 맞이하며 각 산업들의 올해 트렌드를 전망하는 기사들이 나오고 있는데요. 2022년은 어느덧 코로나 3년차에 접어드는 해로, 코로나로 가파르게 성장했던 분야 중 한 곳인 '이커머스 산업'의 올해 트렌드를 예측해보고자 합니다. 2020년은 코로나를 배경으로 이커머스 붐이 일었던 해였다면, 2021년은 크게 '애플의 개인정보 보호]]></content>
     </entry>
 </feed>
