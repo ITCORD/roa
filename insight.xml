@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-04-11T01:52:11.494Z</updated>
+    <updated>2022-04-11T03:13:49.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 4월 1주차 - 오프라인 리테일 테크 및 프롭테크 관련 투자에 주목]]></title>
+        <id>https://report.roa.ai/article/172529</id>
+        <link href="https://report.roa.ai/article/172529"/>
+        <updated>2022-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[4월 첫째 주(4월 4일 ~ 4월 8일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 30건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 해당 기간 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.4월 1주차 투자 유치 스타트업 (금액 순]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[월간 투자 브리핑] 2022년 3월 국내 스타트업 투자유치 동향]]></title>
         <id>https://report.roa.ai/article/172527</id>
@@ -116,12 +123,5 @@
         <link href="https://report.roa.ai/article/172509"/>
         <updated>2022-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2월 넷째주(2월 21~27일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 40개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미) 아래는 40개 기업 중, 투자금액이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 2월 4주차 - 해외 투자자도 주목하는 'AI휴먼', 페퍼와는 다른 길 걸을까?]]></title>
-        <id>https://report.roa.ai/article/172507</id>
-        <link href="https://report.roa.ai/article/172507"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2월 넷째주(2월 21~27일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 23건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다. 2월 4주차 투자 유치 스타트업 (투자 유치 금액순)&amp;]]></content>
     </entry>
 </feed>
