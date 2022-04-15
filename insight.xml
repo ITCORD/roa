@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-04-15T05:26:17.286Z</updated>
+    <updated>2022-04-15T06:28:28.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 4월 2주차 - '엔데믹' 기대감과 '팬데믹' 發 트렌드가 공존 중]]></title>
+        <id>https://report.roa.ai/article/172534</id>
+        <link href="https://report.roa.ai/article/172534"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[4월 2째 주(4월 9일~4월 15일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 43건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 이번주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.4월 2주차 투자 유치 스타트업 (금액 순 상위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 이슈 브리핑] OTT를 둘러싼 통신사들의 한판 승부수, 그 결과는?]]></title>
         <id>https://report.roa.ai/article/172535</id>
@@ -122,12 +129,5 @@
         <link href="https://report.roa.ai/article/172512"/>
         <updated>2022-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2월 투자동향총 투자 건수 &amp; 금액크런치베이스(Crunchbase) 데이터에 의하면, 2월 첫째주부터 넷째주까지 메가라운드*를 유치한 글로벌 스타트업은 총 181개로, 이들 스타트업에 투자된 총 투자금액은 약 481억 733만 달러 규모인 것으로 나타났습니다. 이에 따라 투자 한 건당 평균 투자금액은 약 2억 6,579만 달러인 것으로 확인됩니다.*]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 3월 1주차 - 유니콘 등극한 리디, K콘텐츠 열풍 힘입어 웹소설/웹툰 투자 활발]]></title>
-        <id>https://report.roa.ai/article/172511</id>
-        <link href="https://report.roa.ai/article/172511"/>
-        <updated>2022-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[3월 첫째주(2월 28~3월 6일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 25건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다. 해외 투자 유치로 유니콘 등극한 리디, 북미 웹툰]]></content>
     </entry>
 </feed>
