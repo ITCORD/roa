@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-04-17T10:25:01.982Z</updated>
+    <updated>2022-04-17T11:19:06.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 4월 2주차 - 메타버스와 블록체인 투자가 돋보인 한주]]></title>
+        <id>https://report.roa.ai/article/172536</id>
+        <link href="https://report.roa.ai/article/172536"/>
+        <updated>2022-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[4월 둘째 주(4월 9일~15일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 28개 기업으로 조사됩니다.
+
+(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미)
+
+ 
+
+아래는 28개 기업 중,
+투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한 표입니다.
+
+ 
+
+4월 2주차
+투자 유치 스타트업 (금액 순]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 투자 브리핑] 4월 2주차 - '엔데믹' 기대감과 '팬데믹' 發 트렌드가 공존 중]]></title>
         <id>https://report.roa.ai/article/172534</id>
@@ -122,12 +141,5 @@
         <link href="https://report.roa.ai/article/172513"/>
         <updated>2022-03-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[3월 둘째주(3월 7일~13일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 38개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미) 아래는 38개 기업 중,&amp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월간 투자 브리핑] 2022년 2월 글로벌 스타트업 투자유치 동향_메가 라운드를 중심으로]]></title>
-        <id>https://report.roa.ai/article/172512</id>
-        <link href="https://report.roa.ai/article/172512"/>
-        <updated>2022-03-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2월 투자동향총 투자 건수 &amp; 금액크런치베이스(Crunchbase) 데이터에 의하면, 2월 첫째주부터 넷째주까지 메가라운드*를 유치한 글로벌 스타트업은 총 181개로, 이들 스타트업에 투자된 총 투자금액은 약 481억 733만 달러 규모인 것으로 나타났습니다. 이에 따라 투자 한 건당 평균 투자금액은 약 2억 6,579만 달러인 것으로 확인됩니다.*]]></content>
     </entry>
 </feed>
