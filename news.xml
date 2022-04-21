@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-04-21T05:40:36.471Z</updated>
+    <updated>2022-04-21T06:30:03.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[a16z의 "2022 Marketplace 100”, 포스트 코로나 시대에서 빠르게 성장한 신흥 카테고리는?]]></title>
+        <id>https://report.roa.ai/article/172538</id>
+        <link href="https://report.roa.ai/article/172538"/>
+        <updated>2022-04-21T06:29:53.824Z</updated>
+        <content type="html"><![CDATA[안드레센 호로위츠(Andreessen Horowitz, a16z)에서 마켓플레이스 모델을 분석한 “마켓플레이스 100 (Marketplace 100)" 보고서를 발행했습니다. 벌써 올해 보고서가 세번째로, 지난 두건의 보고서는 하기 링크에서 확인하실 수 있습니다. a16z “Marketplace 100”, 빠르게 성장하는 신흥 카테고리는?&amp;nbsp]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스가 광고 비즈니스를 시작해야하는 이유]]></title>
         <id>https://report.roa.ai/article/172532</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172498"/>
         <updated>2022-04-20T13:39:02.632Z</updated>
         <content type="html"><![CDATA[주지하다시피, 기술의 발달은 전 산업에 걸쳐 많은 것을 진화시켰는데요. 자연 환경에 크게 영향을 받는 농업도 기술의 진보에 빗겨가지 않았습니다. 얼마 전, 스마트팜 스타트업 플렌티(Plenty)가 실내농업 분야에서 역대 최대 규모의 투자금(4억 달러)을 조달했다는 소식에 이어, 또 다른 수직농업 스타트업 업워드 팜스(Upward Farms]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CB Insights 선정 올해 주목해야 할 테크 트렌드 Top 12]]></title>
-        <id>https://report.roa.ai/article/172496</id>
-        <link href="https://report.roa.ai/article/172496"/>
-        <updated>2022-04-20T13:39:02.633Z</updated>
-        <content type="html"><![CDATA[CB 인사이트(CB Insights)의 연례 테크 트렌드 리포트(Tech Trends Report)가 발간되었습니다. CB 인사이트 측은 자사 테크놀로지 인사이트 플랫폼(Technology Insights Platform)을 통해 투자 활동, 실적 발표 당시 임원들의 발언, 전문가의 인사이트 및 미디어 커버리지 등을 분석하여 2022년에 주목해 보아야 할]]></content>
     </entry>
 </feed>
