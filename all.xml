@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-25T23:24:52.569Z</updated>
+    <updated>2022-04-26T02:09:56.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[a16z의 "2022 Marketplace 100”, 포스트 코로나 시대에서 빠르게 성장한 신흥 카테고리는? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[주지하다시피, 기술의 발달은 전 산업에 걸쳐 많은 것을 진화시켰는데요. 자연 환경에 크게 영향을 받는 농업도 기술의 진보에 빗겨가지 않았습니다. 얼마 전, 스마트팜 스타트업 플렌티(Plenty)가 실내농업 분야에서 역대 최대 규모의 투자금(4억 달러)을 조달했다는 소식에 이어, 또 다른 수직농업 스타트업 업워드 팜스(Upward Farms]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 4월 3주차 – 모빌리티 기업 4곳에 메가라운드 투자가 집중 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172543</id>
+        <link href="https://report.roa.ai/article/172543"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[4월 셋째 주 (4월 16~22일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 16개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미) 아래는 16개 기업 중, 투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한 표입니다. 4월 3주차 투자 유치 스타트업 (금액 순 상위 10곳)→]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 시장에 큰 충격 안겨준 넷플릭스의 1분기 실적 발표 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172542</id>
         <link href="https://report.roa.ai/article/172542"/>
@@ -118,7 +125,7 @@
 기업들의 2022년 1분기 실적 발표가 본격적으로 시작되었습니다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 디지털 헬스케어 시장에 본격 진입하는 카카오 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 4월 3주차 - 디지털 헬스케어 시장에 본격 진입하는 카카오 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172540</id>
         <link href="https://report.roa.ai/article/172540"/>
         <updated>2022-04-22T00:00:00.000Z</updated>
@@ -229,12 +236,5 @@
         <link href="https://report.roa.ai/article/172520"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[3월 넷째주(3월 21~27일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 43건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.3월 4주차 투자 유치 스타트업 (금액 순 상위 10곳)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 3월 4주차 – 급성장 중인 기업용 법인카드/경비 관리 플랫폼 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172519</id>
-        <link href="https://report.roa.ai/article/172519"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[3월 넷째주(21~27일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 37개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미) 아래는 37개 기업 중, 투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한 표입니다.3월 4주차 투자 유치 스타트업 (금액 순 상위 10곳)금주에는 NFT와 기업]]></content>
     </entry>
 </feed>
