@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T06:29:57.853Z</updated>
+    <updated>2022-04-27T07:23:02.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['웹 3.0' 용어 창시자 '가빈 우드'가 말하는 미래 인터넷의 비전은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172544</id>
+        <link href="https://report.roa.ai/article/172544"/>
+        <updated>2022-04-27T07:22:52.789Z</updated>
+        <content type="html"><![CDATA[최근 트위터(Twitter) 창업자인 잭 도시(Jack Dorsey)와 테슬라(Tesla) CEO인 일론 머스크(Elon Musk) 등 유명 인사들이 웹 3.0의 의미에 대해 토론하면서 웹 3.0이 대두된 바 있는데요. 이제 블록체인을 기반으로 한 '웹 3.0(Web 3.0)'의 시대가 도래했다는 분석이 곳곳에서 나오며 기정 사실화 되고 있는 가운데, 웹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a16z의 "2022 Marketplace 100”, 포스트 코로나 시대에서 빠르게 성장한 신흥 카테고리는? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172538</id>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172504"/>
         <updated>2022-02-23T06:26:46.830Z</updated>
         <content type="html"><![CDATA[주지하시다시피 NFT 및 비트코인 등은 최근 쉽게 접할 수 있는 가상 자산을 의미하는 용어들인데요. 이러한 가상 자산들은 블록체인을 기반으로 구축된 암호화폐로, 이를 거래하기 위한 다양한 형태의 암호화폐 거래소들이 등장하고 있습니다. 즉, 전통적인 은행의 대안으로 '디파이(Defi)'라고 하는 새로운 종류의 금융 시스템이 부상하고 있는 것인데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수직농업 날개 달았다, 최대 규모 투자유치와 최대 규모의 실내농장 구축계획 발표 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172498</id>
-        <link href="https://report.roa.ai/article/172498"/>
-        <updated>2022-02-16T05:18:51.506Z</updated>
-        <content type="html"><![CDATA[주지하다시피, 기술의 발달은 전 산업에 걸쳐 많은 것을 진화시켰는데요. 자연 환경에 크게 영향을 받는 농업도 기술의 진보에 빗겨가지 않았습니다. 얼마 전, 스마트팜 스타트업 플렌티(Plenty)가 실내농업 분야에서 역대 최대 규모의 투자금(4억 달러)을 조달했다는 소식에 이어, 또 다른 수직농업 스타트업 업워드 팜스(Upward Farms]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 4월 3주차 – 모빌리티 기업 4곳에 메가라운드 투자가 집중 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
