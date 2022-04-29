@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-04-29T11:20:19.558Z</updated>
+    <updated>2022-04-29T12:46:09.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 투자 브리핑] 4월 4주차 - 새봄을 맞이한 여행여가 기업들의 투자 유치 행렬]]></title>
-        <id>https://report.roa.ai/article/172546</id>
-        <link href="https://report.roa.ai/article/172546"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[4월 4째 주(4월 23일~4월 29일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에서 총 40건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 이번주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.4월 4주차 투자 유치&amp;nbs]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[국내 주간 이슈 브리핑] 유니콘 기업 반열에 다다른 파두와 반도체 부문 각종 인수 소식]]></title>
         <id>https://report.roa.ai/article/172545</id>
@@ -134,5 +127,12 @@
         <link href="https://report.roa.ai/article/172525"/>
         <updated>2022-04-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[3월 다섯째 주(3월 28~4월 3일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 30건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 지난주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.3월 5주차 투자 유치 스타트업 (금액 순 상위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 3월 5주차 – 금주 3곳의 중국 자율주행 스타트업에 대한 투자가 집중]]></title>
+        <id>https://report.roa.ai/article/172524</id>
+        <link href="https://report.roa.ai/article/172524"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[3월 다섯째주(3월 28일~4월 3일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 25개 기업으로 조사됩니다.(* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를 의미) 아래는 25개 기업 중, 투자금액이 가장 컸던 기업 10곳을 금액순으로 정렬한 표입니다. 3월 5주차 투자 유치 스타트업 (금]]></content>
     </entry>
 </feed>
