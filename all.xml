@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-03T02:06:13.437Z</updated>
+    <updated>2022-05-03T03:54:25.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[테크인파리] 유럽의 그린테크 스타트업 1분기 투자 동향 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -108,6 +108,13 @@
         <link href="https://report.roa.ai/article/172505"/>
         <updated>2022-02-28T11:18:30.224Z</updated>
         <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]매년 초, 프랑스 정부는 스타트업 랭킹인 '넥스트 40(Next 40)'와 '프렌치 테크 120(French Tech]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 4월 4주차 – AI부터 TV광고 등 다양한 영역에 투자가 분산 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172548</id>
+        <link href="https://report.roa.ai/article/172548"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[4월 넷째 주(4월 23~29일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 29개 기업으로 조사됩니다. (* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를&amp;n]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 1분기 실적발표에서 나타난 테크기업들의 공통적인 키워드는? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -229,14 +236,5 @@
         <link href="https://report.roa.ai/article/172527"/>
         <updated>2022-04-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[3월 투자동향 총 투자건수 &amp; 금액로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면, 3월 첫째주(2월 28일~3월 6일)부터 3월 다섯째 주(3월 28~4월 3일)까지, 총 5주(2월 28일~4월 3일)간 투자 건수는 총 149건입니다. 이 중 투자 금액을 공개한 경우는 96 건으로, 공개된 총 투자금액은 2조 436억 원입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 이슈 브리핑] 공격적 행보에 나선 SK와 카카오에 주목 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172528</id>
-        <link href="https://report.roa.ai/article/172528"/>
-        <updated>2022-04-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한
-뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를
-신설하였습니다. 4월 1일 금요일부터 4월 7일 목요일까지의 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스 내용의 일부이기도 합니다. 많은 관심 부탁드립니다.이 기업에 주목!-공격적 행보에 나선 S]]></content>
     </entry>
 </feed>
