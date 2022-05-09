@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-05-09T05:25:47.421Z</updated>
+    <updated>2022-05-09T06:30:04.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전기차 전환을 막는 리튬 공급난, 그 해결책은?]]></title>
+        <id>https://report.roa.ai/article/172550</id>
+        <link href="https://report.roa.ai/article/172550"/>
+        <updated>2022-05-09T06:29:56.728Z</updated>
+        <content type="html"><![CDATA[팬데믹 이후 지속된 반도체 공급난은 자동차 산업을 어려움 속으로 몰아두었고, 반도체 칩의 가격과 차량 가격을 잇따라 상승하도록 했습니다. 하지만, 최근 차량 제조사들은 또 다른 난관에 부딪쳤는데요. 이번에는 전기차 배터리의 핵심물질인 리튬 조달에 차질이 생겼기 때문입니다. 이번 아티클에서는 리튬 공급 현황에 대해 살펴보고, 공급난 문제를 해결하기 위해 어떠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분기 실적 발표한 아마존, 고공행진하던 이커머스 비즈니스에 적신호]]></title>
         <id>https://report.roa.ai/article/172549</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172510"/>
         <updated>2022-04-20T13:39:02.625Z</updated>
         <content type="html"><![CDATA[팬데믹으로 기업들이 업무 환경을 재고하게 됨에 따라, 출장을 줄이면서 직원 및 고객과 소통할 수 있는 혁신적인 방법으로 '홀로그램'이 주목받고 있습니다. 지난 1월, 400척 선박에 1만 7,000명의 선원을 직원으로 두고있는 선박회사 콜롬비아 쉽매니지먼트(Columbia Ship management, CSM)의 CEO인 마크오넬(Mark O'Neil)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스 통해 수익 증대 모색하는 소매 업체들]]></title>
-        <id>https://report.roa.ai/article/172506</id>
-        <link href="https://report.roa.ai/article/172506"/>
-        <updated>2022-04-20T13:39:02.628Z</updated>
-        <content type="html"><![CDATA[메타버스, 가상화폐 등 가상세계에 대한 관심이 전 세계적으로 뜨거운 가운데, 최근 포에버 21(Forever 21), 나이키(Nike) 및 치폴레(Chipotle) 등의 소매 업체들이 이윤 증대에 도움이 될 것으로 기대하며 디지털 세계에 가상 매장을 구축했다는 소식들이 속속 전해지고 있습니다.소매 업체로 확대되고 있는 메타버스가 일시적인 현상일지, 과대 광]]></content>
     </entry>
 </feed>
