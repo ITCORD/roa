@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-10T01:39:03.939Z</updated>
+    <updated>2022-05-10T02:53:58.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[전기차 전환을 막는 리튬 공급난, 그 해결책은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -108,6 +108,13 @@
         <link href="https://report.roa.ai/article/172510"/>
         <updated>2022-03-10T08:25:59.640Z</updated>
         <content type="html"><![CDATA[팬데믹으로 기업들이 업무 환경을 재고하게 됨에 따라, 출장을 줄이면서 직원 및 고객과 소통할 수 있는 혁신적인 방법으로 '홀로그램'이 주목받고 있습니다. 지난 1월, 400척 선박에 1만 7,000명의 선원을 직원으로 두고있는 선박회사 콜롬비아 쉽매니지먼트(Columbia Ship management, CSM)의 CEO인 마크오넬(Mark O'Neil)이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국내 주간 이슈 브리핑] 인공지능의 도움을 통한 패션 스타일링의 완성 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172552</id>
+        <link href="https://report.roa.ai/article/172552"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한 뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를 신설하였습니다. 4월 29일 금요일부터 5월 5일 목요일까지 수집된 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스의 일부이기도 합니다.&amp;nbsp]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 4월 4주차 – AI부터 TV광고 등 다양한 영역에 투자가 분산 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -229,12 +236,5 @@
         <link href="https://report.roa.ai/article/172529"/>
         <updated>2022-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[4월 첫째 주(4월 4일 ~ 4월 8일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에선 총 30건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 해당 기간 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.4월 1주차 투자 유치 스타트업 (금액 순]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월간 투자 브리핑] 2022년 3월 국내 스타트업 투자유치 동향 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172527</id>
-        <link href="https://report.roa.ai/article/172527"/>
-        <updated>2022-04-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[3월 투자동향 총 투자건수 &amp; 금액로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면, 3월 첫째주(2월 28일~3월 6일)부터 3월 다섯째 주(3월 28~4월 3일)까지, 총 5주(2월 28일~4월 3일)간 투자 건수는 총 149건입니다. 이 중 투자 금액을 공개한 경우는 96 건으로, 공개된 총 투자금액은 2조 436억 원입]]></content>
     </entry>
 </feed>
