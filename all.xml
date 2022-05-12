@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T07:41:02.656Z</updated>
+    <updated>2022-05-12T08:30:59.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[게임 산업, 구독 모델의 성장이 더디게 진행되는 이유는? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172553</id>
+        <link href="https://report.roa.ai/article/172553"/>
+        <updated>2022-05-12T08:30:50.157Z</updated>
+        <content type="html"><![CDATA[얼마전 OTT 스트리밍 서비스, 즉 구독 모델의 대표 주자격인 넷플릭스(Netflix)가 1분기 실적 발표 이후 주가 및 시가총액 모두 수직 하강을 기록하며 충격을 안겨준 바 있는데요. 팬데믹 이후 넷플릭스, 디즈니 등 OTT 스트리밍 구독 서비스가 전 세계적인 트렌드로 자리잡으며 부상한 가운데, 이번 로아 리포트에서는 다른 미디어 부문과 다르게 구독 모델]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차 전환을 막는 리튬 공급난, 그 해결책은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172550</id>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172515"/>
         <updated>2022-03-17T04:29:13.512Z</updated>
         <content type="html"><![CDATA[지난 해를 뜨겁게 달궜던 트렌드 중 하나가 바로 NFT 아닐까 싶은데요. 최근 디지털 토큰인 NFT의 가치가 2021년 하반기 이후 거의 50% 급락하면서 가상 예술품의 버블 붕괴 가능성에 대한 우려가 다시 높아지고 있습니다. NFT 리서치 업체인 넌 펀지블(Non Fungible)의 통계에 따르면, NFT의 평균 판매가는 약 2,500 달러로 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커뮤니케이션 수단으로써 다양한 실험 중인 홀로그램, 어디까지 왔나? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172510</id>
-        <link href="https://report.roa.ai/article/172510"/>
-        <updated>2022-03-10T08:25:59.640Z</updated>
-        <content type="html"><![CDATA[팬데믹으로 기업들이 업무 환경을 재고하게 됨에 따라, 출장을 줄이면서 직원 및 고객과 소통할 수 있는 혁신적인 방법으로 '홀로그램'이 주목받고 있습니다. 지난 1월, 400척 선박에 1만 7,000명의 선원을 직원으로 두고있는 선박회사 콜롬비아 쉽매니지먼트(Columbia Ship management, CSM)의 CEO인 마크오넬(Mark O'Neil)이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 승차공유 양대산맥인 리프트와 우버의 대조된 실적 발표, 이유는? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
