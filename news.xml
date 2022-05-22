@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-05-12T22:26:28.730Z</updated>
+    <updated>2022-05-22T17:14:44.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주가 폭락 중인 전기차 스타트업들의 미래는?]]></title>
+        <id>https://report.roa.ai/article/172556</id>
+        <link href="https://report.roa.ai/article/172556"/>
+        <updated>2022-05-22T17:14:35.183Z</updated>
+        <content type="html"><![CDATA[최근 나스닥 및 비트코인 하락 소식이 계속해서 전해지는 가운데, 전 산업에 걸쳐 주가가 하락하는 모습을 보이고 있는데요. 이번에 소개해드릴 부문은 바로 '전기차'입니다. 테슬라(Tesla)의 성공으로 부푼 꿈을 안고 여러 전기차 업체가 생겨난 가운데, 최근 전기차 업체들의 주가가 폭락하며 불투명한 미래가 전망되고 있습니다.불과 1년 4개월 전 시점인 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[게임 산업, 구독 모델의 성장이 더디게 진행되는 이유는?]]></title>
         <id>https://report.roa.ai/article/172553</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172518"/>
         <updated>2022-04-20T13:39:02.623Z</updated>
         <content type="html"><![CDATA[지난 해, 전 세계적인 컴퓨터 칩 부족 사태로 자동차에서 로보틱스 및 가전제품에 이르기까지 핵심 부품인 반도체를 공급받지 못해 어려움을 겪으며 공급망이 마비된 바 있는데요. 현재 전 산업에 걸쳐 인공지능(Artificial Intelligence, AI) 활용이 가속화되며 AI 칩에 대한 수요 역시 증가하자, 이제 투자자들이 AI 어플리케]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 수면위로 떠오른 NFT 버블 붕괴 가능성, 이미 한계 도달했나?]]></title>
-        <id>https://report.roa.ai/article/172515</id>
-        <link href="https://report.roa.ai/article/172515"/>
-        <updated>2022-04-20T13:39:02.623Z</updated>
-        <content type="html"><![CDATA[지난 해를 뜨겁게 달궜던 트렌드 중 하나가 바로 NFT 아닐까 싶은데요. 최근 디지털 토큰인 NFT의 가치가 2021년 하반기 이후 거의 50% 급락하면서 가상 예술품의 버블 붕괴 가능성에 대한 우려가 다시 높아지고 있습니다. NFT 리서치 업체인 넌 펀지블(Non Fungible)의 통계에 따르면, NFT의 평균 판매가는 약 2,500 달러로 1]]></content>
     </entry>
 </feed>
