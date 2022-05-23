@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-05-23T05:28:12.304Z</updated>
+    <updated>2022-05-23T06:33:11.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CB 인사이트가 전망한, 2030년의 온라인 쇼핑]]></title>
+        <id>https://report.roa.ai/article/172558</id>
+        <link href="https://report.roa.ai/article/172558"/>
+        <updated>2022-05-23T06:33:01.614Z</updated>
+        <content type="html"><![CDATA[어느 때부터인가, 온라인 쇼핑은 우리에게 너무 자연스러운 일상이 되었습니다. 소비자들은 이제 몇 번의 클릭 혹은 터치만으로 물건을 구매할 수 있으며, 하루 혹은 몇 시간만에 집 앞으로 주문한 물건을 배송받을 수도 있습니다. 특히, 팬데믹의 영향으로, 온라인 쇼핑은 지난 몇 년간 빠르게 증가했는데요. CB 인사이트의 분석에 따르면, 리테일 이커머스 시장은 앞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주가 폭락 중인 전기차 스타트업들의 미래는?]]></title>
         <id>https://report.roa.ai/article/172556</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172521"/>
         <updated>2022-04-20T13:39:02.622Z</updated>
         <content type="html"><![CDATA[NFT 그리고 메타버스, 로아 리포트에서 계속해서 등장하고 있는 키워드들인데요. 이번엔 가장 인기있는 NFT 컬렉션 중 하나인 지루한 얼굴을 하고있는 원숭이 이미지인 '보어드 에이프 요트 클럽(Bored Ape Yacht Club, BAYC)'의 제작업체인 유가랩스(Yuga Labs)가 자체 메타버스를 구축한다는 소식이 전해졌습니다. 유가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 전용칩 제작 스타트업들에 찾아온 봄...투자 활황]]></title>
-        <id>https://report.roa.ai/article/172518</id>
-        <link href="https://report.roa.ai/article/172518"/>
-        <updated>2022-04-20T13:39:02.623Z</updated>
-        <content type="html"><![CDATA[지난 해, 전 세계적인 컴퓨터 칩 부족 사태로 자동차에서 로보틱스 및 가전제품에 이르기까지 핵심 부품인 반도체를 공급받지 못해 어려움을 겪으며 공급망이 마비된 바 있는데요. 현재 전 산업에 걸쳐 인공지능(Artificial Intelligence, AI) 활용이 가속화되며 AI 칩에 대한 수요 역시 증가하자, 이제 투자자들이 AI 어플리케]]></content>
     </entry>
 </feed>
