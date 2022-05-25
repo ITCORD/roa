@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-25T08:30:25.481Z</updated>
+    <updated>2022-05-25T09:25:04.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[위기 속에서 더욱 강해진 에어비앤비 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172557</id>
+        <link href="https://report.roa.ai/article/172557"/>
+        <updated>2022-05-25T09:24:54.960Z</updated>
+        <content type="html"><![CDATA[팬데믹은 기업들의 옥석을 가리는 시간이었습니다. 좋은 기업들은 어려움을 빠르게 헤쳐나가 더욱 단단한 기업으로 성장하는 계기가 되었죠. 이번 아티클에서는 팬데믹 한 가운데에서도 고무적인 실적을 기록하며, 무엇보다 대대적인 앱 개편을 발표한 에어비앤비에 대해 살펴보려고 합니다.Ⅰ. 팬데믹을 이겨낸 실적 코로나 19가 발발했을 때, 여행업계는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CB 인사이트가 전망한, 2030년의 온라인 쇼핑 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172558</id>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172522"/>
         <updated>2022-03-31T08:24:57.345Z</updated>
         <content type="html"><![CDATA[올해 게임에 대한 빅테크 기업들의 관심이 유독 뜨겁습니다. 연초에는 특히 마이크로소프트(Microsoft)가 액티비전 블리자드(Activision Blizzard)를 687억 달러에 인수한데 이어, 콘솔 업계 최대 라이벌인 소니(Sony)가 엑스박스(Xbox) 대표타이틀 헤일로(Halo)와 데스티니(Destiny)의 개발사 번지(Bungie)를 인수하며 게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 NFT 인수에 이어 암호화폐 출시한 BAYC NFT 제작업체 유가랩스, 이제 자체 메타버스 구축한다 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172521</id>
-        <link href="https://report.roa.ai/article/172521"/>
-        <updated>2022-03-30T08:27:34.583Z</updated>
-        <content type="html"><![CDATA[NFT 그리고 메타버스, 로아 리포트에서 계속해서 등장하고 있는 키워드들인데요. 이번엔 가장 인기있는 NFT 컬렉션 중 하나인 지루한 얼굴을 하고있는 원숭이 이미지인 '보어드 에이프 요트 클럽(Bored Ape Yacht Club, BAYC)'의 제작업체인 유가랩스(Yuga Labs)가 자체 메타버스를 구축한다는 소식이 전해졌습니다. 유가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 서로의 고유 영역에 진출한 FTX와 로빈후드 & 핀테크에 투자가 집중 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
