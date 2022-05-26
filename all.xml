@@ -2,8 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-26T05:26:30.354Z</updated>
+    <updated>2022-05-26T06:29:53.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[글로벌 탈탄소화 기업에 대한 투자 활성화 - 주요 비즈니스 모델 유형은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172562</id>
+        <link href="https://report.roa.ai/article/172562"/>
+        <updated>2022-05-26T06:29:44.027Z</updated>
+        <content type="html"><![CDATA[최근 전세계가 빠르게 탈탄소 사회로 진입하는 사이 우리는 이러한 탈탄소 시대에 제대로 대비하고 있는가 하는 이슈가
+부각되고 있습니다. 특히 러시아-우크라이나 전쟁이 발발하면서
+유럽연합이 탄소국경세(탄소국경조정제도, CBAM)를 확정한
+것이 주요한 계기가 되고 있는데요. 유럽으로 수입되는 제품의 탄소 배출량이 유럽 제품의 배출량보다 많을
+때 이 차이만큼 세금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인이 미래에는 결제 수단으로 사용될 수 있을까, FTX 창업자의 해답은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172561</id>
@@ -101,13 +112,6 @@
         <link href="https://report.roa.ai/article/172526"/>
         <updated>2022-04-07T01:42:05.528Z</updated>
         <content type="html"><![CDATA[주지하다시피, 코로나 팬데믹 기간동안 외부 출입 제한으로 혜택을 받은 산업 중 하나가 바로 배송 산업입니다. 지난 1년 동안 미국 및 일부 유럽 지역에 우후죽순 등장했던, 식료품 및 편의용품을 15분 내로 초고속 배송하는 업체들이 최근 투자금 유치에 대한 어려움을 겪고 있을 뿐만 아니라, 줄줄이 폐업 소식을 전하기 시작했습니다. 앞서 로아 리포트에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크인파리] 빠르게 부상하고 있는 '탄소 회계 플랫폼' (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172523</id>
-        <link href="https://report.roa.ai/article/172523"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]최근 샐러드용 파마산 치즈가루의 탄소 발자국을 측정하는 워터셰드 테크놀로지(Watershed Technology)가 투]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 서로의 고유 영역에 진출한 FTX와 로빈후드 & 핀테크에 투자가 집중 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
