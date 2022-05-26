@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-26T03:53:24.078Z</updated>
+    <updated>2022-05-26T04:38:53.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 미래에는 결제 수단으로 사용될 수 있을까? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172561</id>
+        <link href="https://report.roa.ai/article/172561"/>
+        <updated>2022-05-26T04:38:44.517Z</updated>
+        <content type="html"><![CDATA[올해 1월 대비 비트코인 가격이 35% 이상 하락하며 2020년 말 이후 최저 수준을 기록하는 등, 암호화폐 가격이 폭락하며 많은 코인 투자자들이 두려움에 떨고 있는데요. 비트코인 무용론까지 나오며 코인 투자에 대한 공포 심리가 지배적인 가운데, 세계 최대 암호화폐 거래소 중 한 곳인 FTX의 CEO이자 공동창업자인 샘 뱅크맨 프라이드(Sam Bankman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위기 속에서 더욱 강해진 에어비앤비 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172557</id>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172523"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[['테크인파리' 시리즈는 로아리포트의 김도형 컨설턴트가 파리 현지에서 직접 유럽의 생생한 테크 트렌드를 전해드리는 코너입니다. 테크인파리 시리즈를 통해 아시아, 북미를 넘어서 전세계 트렌드의 흐름을 폭넓게 조망해 보세요.]최근 샐러드용 파마산 치즈가루의 탄소 발자국을 측정하는 워터셰드 테크놀로지(Watershed Technology)가 투]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['게임의 미래는 클라우드'…개발부터 플레이까지, 게임 업계 클라우드 적용 확대 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172522</id>
-        <link href="https://report.roa.ai/article/172522"/>
-        <updated>2022-03-31T08:24:57.345Z</updated>
-        <content type="html"><![CDATA[올해 게임에 대한 빅테크 기업들의 관심이 유독 뜨겁습니다. 연초에는 특히 마이크로소프트(Microsoft)가 액티비전 블리자드(Activision Blizzard)를 687억 달러에 인수한데 이어, 콘솔 업계 최대 라이벌인 소니(Sony)가 엑스박스(Xbox) 대표타이틀 헤일로(Halo)와 데스티니(Destiny)의 개발사 번지(Bungie)를 인수하며 게]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 서로의 고유 영역에 진출한 FTX와 로빈후드 & 핀테크에 투자가 집중 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
