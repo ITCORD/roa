@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-17T06:29:11.627Z</updated>
+    <updated>2022-06-17T07:21:06.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지난해 정점 찍고 둔화된 제약바이오 투자, 주요 특징은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172572</id>
+        <link href="https://report.roa.ai/article/172572"/>
+        <updated>2022-06-17T07:20:57.264Z</updated>
+        <content type="html"><![CDATA[러시아의 우크라이나 침공부터 물가 안정을 위해 미국에서 계속해서 금리를 인상하는 등 다양한 글로벌 이슈를 배경으로 전세계 금융 시장이 위축되는 모습을 보이고 있는데요. 불안정한 시장 분위기가 전 세계적인 벤처 투자 철수로 이어지고 있는 가운데, 제약바이오 산업도 이를  피하지 못하고 있습니다.최근 시점인 6월 중순 경 후보물질의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블룸버그가 금융 데이터 플랫폼에 NLP를 활용하는 방법 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172571</id>
@@ -105,13 +112,6 @@
         <link href="https://report.roa.ai/article/172538"/>
         <updated>2022-04-21T06:29:53.824Z</updated>
         <content type="html"><![CDATA[안드레센 호로위츠(Andreessen Horowitz, a16z)에서 마켓플레이스 모델을 분석한 “마켓플레이스 100 (Marketplace 100)" 보고서를 발행했습니다. 벌써 올해 보고서가 세번째로, 지난 두건의 보고서는 하기 링크에서 확인하실 수 있습니다. a16z “Marketplace 100”, 빠르게 성장하는 신흥 카테고리는?&amp;nbsp]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스가 광고 비즈니스를 시작해야하는 이유 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172532</id>
-        <link href="https://report.roa.ai/article/172532"/>
-        <updated>2022-04-15T01:51:06.512Z</updated>
-        <content type="html"><![CDATA[더인포메이션이 최근 넷플릭스(Netflix)가 두 차례의 직원 미팅을 통해 지출 및 신규 채용 등에 있어 수익성에 보다 유의하라고 당부했다고 보도했습니다. 이는 코로나19로부터의 일상회복이 본격화됨에 따라 팬데믹 기간 동안 가속화되었던 가입자 성장세가 대폭 둔화된데 따른 결과로, 더인포메이션은 같은 맥락에서 넷플릭스가 신규가입자 감소로 인한 매출타격을 상쇄]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 금리인상기 속 BNPL 수난시대, BNPN이 답인가?! 外 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
