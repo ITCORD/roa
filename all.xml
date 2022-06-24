@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-24T07:21:53.779Z</updated>
+    <updated>2022-06-24T08:30:10.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 홈화면, "진정성"을 내세운 소셜 플랫폼의 새로운 격전지로 부상 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172575</id>
+        <link href="https://report.roa.ai/article/172575"/>
+        <updated>2022-06-24T08:30:00.095Z</updated>
+        <content type="html"><![CDATA[트위터(Twitter), 페이스북(Facebook), 인스타그램(Instagram) 등 SNS에 개인의 일상을 공유하고, 심심할때 타인의 삶을 엿보는 일은 이제 하나의 습관처럼 되어버렸는데요. 하지만, 지나치게 많은 정보의 노출로 인한 피로도 증가 및 미화된 일상 공유 등의 다양한 이슈로 SNS의 역기능이 대두되고 있기도 합니다. 이러한 SNS 트렌드가 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몰아치는 매도세에 요동치는 비상장 주식 시장 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172573</id>
@@ -105,13 +112,6 @@
         <link href="https://report.roa.ai/article/172550"/>
         <updated>2022-05-09T06:29:56.728Z</updated>
         <content type="html"><![CDATA[팬데믹 이후 지속된 반도체 공급난은 자동차 산업을 어려움 속으로 몰았고, 반도체 칩의 가격과 차량 가격을 잇따라 상승하도록 했습니다. 하지만 최근 차량 제조사들은 또 다른 난관에 부딪혔는데요. 이번에는 전기차 배터리의 핵심물질인 리튬 조달에 차질이 생겼기 때문입니다. 이번 아티클에서는 리튬 공급 현황에 대해 살펴보고, 공급난 문제를 해결하기 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분기 실적 발표한 아마존, 고공행진하던 이커머스 비즈니스에 적신호 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172549</id>
-        <link href="https://report.roa.ai/article/172549"/>
-        <updated>2022-05-04T08:29:00.850Z</updated>
-        <content type="html"><![CDATA[지난 20년 동안 눈부신 속도로 성장한 아마존(Amazon)의 성장률에 적신호가 켜졌습니다. 이번 2022년 1분기 실적 발표에서 20년만에 최저 매출 성장률을 보고한 것인데요. 제품 판매 성장률은 둔화되었고, 주요 온라인 쇼핑 사업부의 매출은 6개월동안 정체하며 아마존 역사상 최악의 저성장 기간 중 하나로 기록되었습니다. 더불어 아마존 경영진은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[6월 셋째주_글로벌 유니콘] ESG 등급 제공사 에코바디스 外 6곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
