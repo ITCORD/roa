@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-06-27T23:23:08.623Z</updated>
+    <updated>2022-06-28T02:07:09.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[6월 넷째주_글로벌 유니콘] NFT 마켓플레이스인 매직 에덴 外 6곳]]></title>
+        <id>https://report.roa.ai/article/172579</id>
+        <link href="https://report.roa.ai/article/172579"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지난 한 주간 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 6월 넷째 주 7곳의 유니콘 스타트업이 새롭게 등장해 주목받았습니다.  새롭게 유니콘에 진입한 경우와 밸류에이션이 큰 폭으로 증가한 경우, 두 가지를 중심으로 기업을 선정했습니다.▶지난주 글로벌 투자 "뉴스" 모아보기▶지난주 글로벌 메가라운드 투자유치 "기업" 모아보기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[6월 셋째주_글로벌 유니콘] ESG 등급 제공사 에코바디스 外 6곳]]></title>
         <id>https://report.roa.ai/article/172574</id>
@@ -106,14 +113,5 @@
         <link href="https://report.roa.ai/article/172546"/>
         <updated>2022-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[4월 4째 주(4월 23일~4월 29일), 로아인텔리전스가 내부 기사수집 엔진을 토대로 취합한 바에 따르면 국내에서 총 39건의 신규 투자가 발표된 것으로 파악되었습니다. 아래는 이번주 투자유치를 발표한 기업 중, 투자금액을 공개한 기업들을 기준으로 투자금액이 가장 컸던 기업 10곳을 정리한 표입니다.4월 4주차 투자 유치&amp;nbs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 이슈 브리핑] 유니콘 기업 반열에 다다른 파두와 반도체 부문 각종 인수 소식]]></title>
-        <id>https://report.roa.ai/article/172545</id>
-        <link href="https://report.roa.ai/article/172545"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한
-뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를
-신설하였습니다. 4월 22일 금요일부터 4월 28일 목요일까지 수집된 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스의 일부이기도 합니다. 많은 관심 부탁드립니다.유니콘 기업 반열에 다다른 파두와 반]]></content>
     </entry>
 </feed>
