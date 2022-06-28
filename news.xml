@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-06-28T08:32:17.360Z</updated>
+    <updated>2022-06-28T09:22:46.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[격동의 시기를 맞이한 메타, 핵심 쟁점과 내부 관계자들의 전망]]></title>
+        <id>https://report.roa.ai/article/172578</id>
+        <link href="https://report.roa.ai/article/172578"/>
+        <updated>2022-06-28T09:22:37.913Z</updated>
+        <content type="html"><![CDATA[메타라는 새로운 사명까지 공개하며 리브랜딩했지만 정작 투자자들은 메타의 비전에 크게 공감하지 못하는 것 같습니다. 지난해 10월 리브랜딩한 이후 주가가 40% 가까이 떨어지면서, 메타는 3,490억 달러의 시총이 몇 개월만에 증발되었습니다. 이는 마켓 평균대비 3배에 달하는 하락세로, 메타를 둘러싼 회사 내외의 우려는 가중되고 있습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 SEC 최초 승인, 비트코인 ETF(BITO)에 관한 고찰]]></title>
         <id>https://report.roa.ai/article/172577</id>
@@ -106,12 +113,5 @@
         <link href="https://report.roa.ai/article/172556"/>
         <updated>2022-05-22T17:14:35.183Z</updated>
         <content type="html"><![CDATA[최근 나스닥 및 비트코인 하락 소식이 계속해서 전해지는 가운데, 전 산업에 걸쳐 주가가 하락하는 모습을 보이고 있는데요. 이번에 소개해드릴 부문은 바로 '전기차'입니다. 테슬라(Tesla)의 성공으로 부푼 꿈을 안고 여러 전기차 업체가 생겨난 가운데, 최근 전기차 업체들의 주가가 폭락하며 불투명한 미래가 전망되고 있습니다.불과 1년 4개월 전 시점인 202]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 산업, 구독 모델의 성장이 더디게 진행되는 이유는?]]></title>
-        <id>https://report.roa.ai/article/172553</id>
-        <link href="https://report.roa.ai/article/172553"/>
-        <updated>2022-05-12T08:30:50.157Z</updated>
-        <content type="html"><![CDATA[얼마전 OTT 스트리밍 서비스, 즉 구독 모델의 대표 주자격인 넷플릭스(Netflix)가 1분기 실적 발표 이후 주가 및 시가총액 모두 수직 하강을 기록하며 충격을 안겨준 바 있는데요. 팬데믹 이후 넷플릭스, 디즈니 등 OTT 스트리밍 구독 서비스가 전 세계적인 트렌드로 자리잡으며 부상한 가운데, 이번 로아 리포트에서는 다른 미디어 부문과 다르게 구독 모델]]></content>
     </entry>
 </feed>
