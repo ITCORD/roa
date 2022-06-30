@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-06-30T02:12:48.439Z</updated>
+    <updated>2022-06-30T04:02:25.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[암흑기인 암호화폐 시장에서 유일하게 상승한 "메타버스 토큰"... 게임 산업과 메타버스의 만남]]></title>
+        <id>https://report.roa.ai/article/172581</id>
+        <link href="https://report.roa.ai/article/172581"/>
+        <updated>2022-06-30T04:02:14.842Z</updated>
+        <content type="html"><![CDATA[지난해 최고의 투자 성과를 보이며 기록적인 해를 보냈던 암호화폐 시장이 올해에는 큰 폭으로 하락하며 고전을 면치 못하고 있는데요. 이러한 하락장에도 불구하고, 메타버스 토큰이 암흑기를 보내고 있는 암호화폐 시장에서 남다른 행보를 보이고 있습니다. 비즈니스 인사이더(Business Insider)는 디센트럴랜드(Decentraland), 샌드박스(S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴스타(Polestar), 나스닥 상장으로 EV 산업의 새로운 챕터를 열다]]></title>
         <id>https://report.roa.ai/article/172580</id>
@@ -106,12 +113,5 @@
         <link href="https://report.roa.ai/article/172557"/>
         <updated>2022-05-25T09:24:54.960Z</updated>
         <content type="html"><![CDATA[팬데믹은 기업들의 옥석을 가리는 시간이었습니다. 좋은 기업들은 어려움을 빠르게 헤쳐나가 더욱 단단한 기업으로 성장하는 계기가 되었죠. 이번 아티클에서는 팬데믹 한 가운데에서도 고무적인 실적을 기록하며, 무엇보다 대대적인 앱 개편을 발표한 에어비앤비에 대해 살펴보려고 합니다.Ⅰ. 팬데믹을 이겨낸 실적 코로나 19가 발발했을 때, 여행업계는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CB 인사이트가 전망한, 2030년의 온라인 쇼핑]]></title>
-        <id>https://report.roa.ai/article/172558</id>
-        <link href="https://report.roa.ai/article/172558"/>
-        <updated>2022-05-23T06:33:01.614Z</updated>
-        <content type="html"><![CDATA[어느 때부터인가, 온라인 쇼핑은 우리에게 너무 자연스러운 일상이 되었습니다. 소비자들은 이제 몇 번의 클릭 혹은 터치만으로 물건을 구매할 수 있으며, 하루 혹은 몇 시간만에 집 앞으로 주문한 물건을 배송받을 수도 있습니다. 특히, 팬데믹의 영향으로, 온라인 쇼핑은 지난 몇 년간 빠르게 증가했는데요. CB 인사이트의 분석에 따르면, 리테일 이커머스 시장은 앞]]></content>
     </entry>
 </feed>
