@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-06T06:29:08.152Z</updated>
+    <updated>2022-07-06T07:21:58.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[암흑기인 암호화폐 시장에서 유일하게 상승한 "메타버스 토큰"... 게임 산업과 메타버스의 만남 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -114,6 +114,13 @@
         <content type="html"><![CDATA[팬데믹은 기업들의 옥석을 가리는 시간이었습니다. 좋은 기업들은 어려움을 빠르게 헤쳐나가 더욱 단단한 기업으로 성장하는 계기가 되었죠. 이번 아티클에서는 팬데믹 한 가운데에서도 고무적인 실적을 기록하며, 무엇보다 대대적인 앱 개편을 발표한 에어비앤비에 대해 살펴보려고 합니다.Ⅰ. 팬데믹을 이겨낸 실적 코로나 19가 발발했을 때, 여행업계는]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[6월 국내 투자 브리핑] 190개 기업에 3.7조원 투자 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172584</id>
+        <link href="https://report.roa.ai/article/172584"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[*로아엔진이 수집-선별한 뉴스를 토대로 정리해드리는 [국내 월간 투자 브리핑] 코너입니다. 2022년 6월 1일부터 6월 30일 사이에 공개된 투자 소식을 기반으로 정리하였습니다.  6월 한 달 동안 국내에는 총 190건의 투자 유치가 이뤄졌으며, 총 투자 유치 금액은 3.7조원으로 집계되었습니다. Roa.ai의 메인 페이지에서도 해당 날]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[6월 다섯째주_글로벌 유니콘] 일렉트릭파이 아메리카 外 2곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172583</id>
         <link href="https://report.roa.ai/article/172583"/>
@@ -214,12 +221,5 @@
         <link href="https://report.roa.ai/article/172552"/>
         <updated>2022-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한 뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를 신설하였습니다. 4월 29일 금요일부터 5월 5일 목요일까지 수집된 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스의 일부이기도 합니다.&amp;nbsp]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 주간 투자 브리핑] 4월 4주차 – AI부터 TV광고 등 다양한 영역에 투자가 분산 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172548</id>
-        <link href="https://report.roa.ai/article/172548"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[4월 넷째 주(4월 23~29일), 크런치베이스에 의하면 메가라운드* 투자를 유치한 글로벌 기업은 29개 기업으로 조사됩니다. (* 메가라운드란 1억 달러 이상의 투자를 유치한 라운드를&amp;n]]></content>
     </entry>
 </feed>
