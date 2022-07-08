@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-07-08T07:21:23.476Z</updated>
+    <updated>2022-07-08T08:41:34.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2분기 국내 M&A/ IPO 브리핑] 총 94건의 M&A, 11건의 IPO 이뤄져]]></title>
+        <id>https://report.roa.ai/article/172586</id>
+        <link href="https://report.roa.ai/article/172586"/>
+        <updated>2022-07-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[*로아엔진이 수집-선별한 뉴스를 토대로 정리해드리는 [국내 M&amp;A/ IPO 브리핑] 코너입니다. 2022년 2분기인 4월 1일부터 6월 30일 사이에 공개된 소식을 기반으로 정리하였습니다.  국내 M&amp;A 동향올해 2분기에는 총 94건의 M&amp;A가 이루어진 것으로 집계되었습니다. 공개된 금액 기준으로 약 5조 2,364억]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[6월 국내 투자 브리핑] 190개 기업에 3.7조원 투자 이뤄져]]></title>
         <id>https://report.roa.ai/article/172584</id>
@@ -106,12 +113,5 @@
         <link href="https://report.roa.ai/article/172551"/>
         <updated>2022-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[*금주부터는 주간 이슈 브리핑 코너에서 투자 동향이 함께 다뤄집니다.주간 이슈 동향 - 승차공유 양대산맥인 리프트와 우버의 대조된 실적 발표, 이유는?지난 5월 첫째 주(4월 30일~5월 6일)에도 1분기 실적을 발표한 글로벌 사업자가 10여곳에 달했습니다. 이 중 호실적을 발표하며 주가 상승으로 이어진 사업자는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 이슈 브리핑] 인공지능의 도움을 통한 패션 스타일링의 완성]]></title>
-        <id>https://report.roa.ai/article/172552</id>
-        <link href="https://report.roa.ai/article/172552"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한 뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를 신설하였습니다. 4월 29일 금요일부터 5월 5일 목요일까지 수집된 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스의 일부이기도 합니다.&amp;nbsp]]></content>
     </entry>
 </feed>
