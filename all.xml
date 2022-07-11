@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-11T08:38:18.242Z</updated>
+    <updated>2022-07-11T09:33:22.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[위기를 기회로: 시장 하락기에 기업 인수로 사업 확장에 나선 'FTX' (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172588</id>
+        <link href="https://report.roa.ai/article/172588"/>
+        <updated>2022-07-11T09:33:14.026Z</updated>
+        <content type="html"><![CDATA[2일(이하 현지시각) 암호화폐 대출업체 블록파이(BlockFi)는 자사 홈페이지를 통해 "주주 승인을 조건으로 FTX와 최종 계약을 체결했다"면서, "FTX는 최대 2억 4,000만 달러(약 3,116억 원) 내에서 블록파이를 인수할 수 있다"라고 밝혔습니다. 이로써 암호화폐 거래소 에프티엑스(이하 FTX)는 일차적으로 암호화폐 시장이 급락하면서 유동성 위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 쇼핑의 개념을 확장 중인 쇼피파이가 공개한 핵심 기능 5가지 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172585</id>
@@ -105,13 +112,6 @@
 유럽연합이 탄소국경세(탄소국경조정제도, CBAM)를 확정한
 것이 주요한 계기가 되고 있는데요. 유럽으로 수입되는 제품의 탄소 배출량이 유럽 제품의 배출량보다 많을
 때 이 차이만큼 세금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인이 미래에는 결제 수단으로 사용될 수 있을까, FTX 창업자의 해답은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172561</id>
-        <link href="https://report.roa.ai/article/172561"/>
-        <updated>2022-05-26T04:38:44.517Z</updated>
-        <content type="html"><![CDATA[올해 1월 대비 비트코인 가격이 35% 이상 하락하며 2020년 말 이후 최저 수준을 기록하는 등, 암호화폐 가격이 폭락하며 많은 코인 투자자들이 두려움에 떨고 있는데요. 비트코인 무용론까지 나오며 코인 투자에 대한 공포 심리가 지배적인 가운데, 세계 최대 암호화폐 거래소 중 한 곳인 FTX의 CEO이자 공동창업자인 샘 뱅크맨 프라이드(Sam Bankman]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2분기 국내 M&A/ IPO 브리핑] 총 94건의 M&A, 11건의 IPO 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
