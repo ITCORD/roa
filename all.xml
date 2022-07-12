@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-12T02:25:24.362Z</updated>
+    <updated>2022-07-12T04:21:30.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[애플까지 뛰어는 BNPL 시장, 현위치와 전망은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[안드레센 호로위츠(Andreessen Horowitz, a16z)가 최근 56페이지 분량의 암호화폐 보고서를 발간했습니다. 안드레센 호로위츠는 암호화폐의 대표적인 낙관론자 중 하나이며, 지금까지 네 차례의 암호화폐 펀드를 발표한 바 있기도 한데요. 이번 달에 발표한 4차 펀드의 경우, 3차 펀드(22억 달러)의 두배가 넘는 45억 달러로 구성하며, 암호화폐]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[7월 첫째주_글로벌 유니콘] 스웨덴의 배터리 제조사 노스볼트 外 4곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172589</id>
+        <link href="https://report.roa.ai/article/172589"/>
+        <updated>2022-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지난 한 주간(7월 4일~8일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 7월 첫째주 5곳의 유니콘 스타트업이 새롭게 등장해 주목받았습니다. 새롭게 유니콘에 진입한 경우와 밸류에이션이 큰 폭으로 증가한 경우, 두 가지를 중심으로 기업을 선정했습니다.▶지난주 글로벌 투자 "뉴스" 모아보기▶지난주 글로벌 메가라운드 투자유치 "기업" 모]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[2분기 국내 M&A/ IPO 브리핑] 총 94건의 M&A, 11건의 IPO 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172586</id>
         <link href="https://report.roa.ai/article/172586"/>
@@ -210,12 +217,5 @@
         <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한
 뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를
 신설하였습니다. 5월 6일 금요일부터 5월 12일 목요일까지 수집된 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스의 일부이기도 합니다. 많은 관심 부탁드립니다.도심으로의 출퇴근을 도와줄 UAM 준비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 승차공유 양대산맥인 리프트와 우버의 대조된 실적 발표, 이유는? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172551</id>
-        <link href="https://report.roa.ai/article/172551"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*금주부터는 주간 이슈 브리핑 코너에서 투자 동향이 함께 다뤄집니다.주간 이슈 동향 - 승차공유 양대산맥인 리프트와 우버의 대조된 실적 발표, 이유는?지난 5월 첫째 주(4월 30일~5월 6일)에도 1분기 실적을 발표한 글로벌 사업자가 10여곳에 달했습니다. 이 중 호실적을 발표하며 주가 상승으로 이어진 사업자는]]></content>
     </entry>
 </feed>
