@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-11T23:22:52.043Z</updated>
+    <updated>2022-07-12T02:25:24.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[애플까지 뛰어는 BNPL 시장, 현위치와 전망은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172587</id>
+        <link href="https://report.roa.ai/article/172587"/>
+        <updated>2022-07-12T02:25:14.775Z</updated>
+        <content type="html"><![CDATA[지난해부터 소액 후불 결제 서비스 관련 규제가 완화됨에 따라, 한국에서도 플랫폼 사업자들을 중심으로 BNPL 서비스가 빠르게 도입되기 시작했습니다. 2021년에는 네이버페이와 쿠팡이 처음으로  BNPL 서비스를 선보이기 시작했으며, 올해는 카카오와 토스 또한 해당 영역에 뛰어들었는데요. 이번 아티클에서는 BNPL 서비스의 개념과 해당 서비스를 제공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위기를 기회로: 시장 하락기에 기업 인수로 사업 확장에 나선 'FTX' (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172588</id>
@@ -101,17 +108,6 @@
         <link href="https://report.roa.ai/article/172565"/>
         <updated>2022-06-03T03:16:35.260Z</updated>
         <content type="html"><![CDATA[안드레센 호로위츠(Andreessen Horowitz, a16z)가 최근 56페이지 분량의 암호화폐 보고서를 발간했습니다. 안드레센 호로위츠는 암호화폐의 대표적인 낙관론자 중 하나이며, 지금까지 네 차례의 암호화폐 펀드를 발표한 바 있기도 한데요. 이번 달에 발표한 4차 펀드의 경우, 3차 펀드(22억 달러)의 두배가 넘는 45억 달러로 구성하며, 암호화폐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 탈탄소화 기업에 대한 투자 활성화 - 주요 비즈니스 모델 유형은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172562</id>
-        <link href="https://report.roa.ai/article/172562"/>
-        <updated>2022-05-26T06:29:44.027Z</updated>
-        <content type="html"><![CDATA[최근 전세계가 빠르게 탈탄소 사회로 진입하는 사이 우리는 이러한 탈탄소 시대에 제대로 대비하고 있는가 하는 이슈가
-부각되고 있습니다. 특히 러시아-우크라이나 전쟁이 발발하면서
-유럽연합이 탄소국경세(탄소국경조정제도, CBAM)를 확정한
-것이 주요한 계기가 되고 있는데요. 유럽으로 수입되는 제품의 탄소 배출량이 유럽 제품의 배출량보다 많을
-때 이 차이만큼 세금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2분기 국내 M&A/ IPO 브리핑] 총 94건의 M&A, 11건의 IPO 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
