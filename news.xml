@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-07-12T06:33:04.267Z</updated>
+    <updated>2022-07-12T07:32:05.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
-        <title type="html"><![CDATA[애플까지 뛰어는 BNPL 시장, 현위치와 전망은?]]></title>
+        <title type="html"><![CDATA[애플까지 뛰어든 BNPL 시장, 현위치와 전망은?]]></title>
         <id>https://report.roa.ai/article/172587</id>
         <link href="https://report.roa.ai/article/172587"/>
         <updated>2022-07-12T02:25:14.775Z</updated>
