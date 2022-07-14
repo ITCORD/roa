@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T08:29:09.200Z</updated>
+    <updated>2022-07-14T09:24:21.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[애플까지 뛰어든 BNPL 시장, 현위치와 전망은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[안드레센 호로위츠(Andreessen Horowitz, a16z)가 최근 56페이지 분량의 암호화폐 보고서를 발간했습니다. 안드레센 호로위츠는 암호화폐의 대표적인 낙관론자 중 하나이며, 지금까지 네 차례의 암호화폐 펀드를 발표한 바 있기도 한데요. 이번 달에 발표한 4차 펀드의 경우, 3차 펀드(22억 달러)의 두배가 넘는 45억 달러로 구성하며, 암호화폐]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[6월 글로벌 투자 브리핑] 메가라운드 투자 유치 기업 134곳에 70조원 규모의 투자가 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172591</id>
+        <link href="https://report.roa.ai/article/172591"/>
+        <updated>2022-07-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[*로아엔진에서 수집된 글로벌 투자 뉴스 및 크런치베이스(Crunchbase) 데이터를 토대로 정리해 드리는 [글로벌 월간 투자 브리핑] 코너입니다. 2022년 6월 1일부터 6월 30일 사이에 메가라운드 투자를 유치한 기업들을 중심으로 정리하였습니다.* 메가라운드란 1억 달러(1천억 원) 이상의 투자를 유치한 라운드를 의미 글로벌에는 총 134건의]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[7월 첫째주_글로벌 유니콘] 스웨덴의 배터리 제조사 노스볼트 外 4곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172589</id>
         <link href="https://report.roa.ai/article/172589"/>
@@ -208,14 +215,5 @@
         <link href="https://report.roa.ai/article/172555"/>
         <updated>2022-05-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[주간 이슈 동향 - 녹아내리는(melt-down) 테크주 및 암호화폐, 투자시장지난주 미 연준이 금이 인상을 단행 한 이후로, (빅테크는 물론 라이징 신생기업 모두) 주요 테크주와 암호화폐 모두 하락세를 보이며 동기화되는 추세가 확연해졌습니다.애플·마이크로소프트·테슬라·아마존 등 기술 대기업, 지난 3거래일 동안 1조 달러 이상의 가치 잃어... 연준의 금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국내 주간 이슈 브리핑]  도심으로의 출퇴근을 도와줄 UAM 준비 러시 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172554</id>
-        <link href="https://report.roa.ai/article/172554"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*로아엔진이 자동으로 수집-선별한
-뉴스를 토대로 정리한 ‘한 주간 국내 이슈 브리핑’ 코너를
-신설하였습니다. 5월 6일 금요일부터 5월 12일 목요일까지 수집된 뉴스 보도 내용을 토대로 정리하였습니다. 로아엔진의 엔터프라이즈 멤버를 대상으로 제공되는 프리미엄 모니터링 서비스의 일부이기도 합니다. 많은 관심 부탁드립니다.도심으로의 출퇴근을 도와줄 UAM 준비]]></content>
     </entry>
 </feed>
