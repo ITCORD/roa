@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-07-15T02:31:03.865Z</updated>
+    <updated>2022-07-15T04:21:14.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CNBC, "지금 뜨고있는 핀테크 시장 트렌드는?]]></title>
+        <id>https://report.roa.ai/article/172590</id>
+        <link href="https://report.roa.ai/article/172590"/>
+        <updated>2022-07-15T04:21:04.693Z</updated>
+        <content type="html"><![CDATA[핀테크 산업은 VC 투자자들에게 있어 가장 인기있는 투자 부문 중 한 곳인데요. 지난 해, 5달러 중 1달러의 투자금이 핀테크 스타트업에 유입된 것으로 조사되며 그 큰 인기를 증명했지만, 지금은 경기침체 우려와 더불어 투자자들 역시 소극적인 행보를 보이고 있습니다. CB 인사이트(CB Insight)에 따르면, 2022년 1분기에 핀테크 기업에 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플까지 뛰어든 BNPL 시장, 현위치와 전망은?]]></title>
         <id>https://report.roa.ai/article/172587</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172570"/>
         <updated>2022-06-10T09:21:34.022Z</updated>
         <content type="html"><![CDATA[운전을 하다보면 다양한 돌발상황에 노출되기 마련이죠. 이러한 복잡한 도로 환경 때문인지 완전 자율주행차 시장의 성장 및 확장 속도가 예상보다 더딘데요. 일부 자율주행 스타트업들은 이러한 더딘 성장세에서 돌파구를 찾기위해 AI에 올인하는  움직임을 보이고 있습니다. 이번 로아리포트에서는 완전 자율주행차의 상용화를 앞당기기 위해 다양한 접근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네번째 사이클을 지나고 있는 암호화폐 시장 - a16z 암호화폐 리포트 2022]]></title>
-        <id>https://report.roa.ai/article/172565</id>
-        <link href="https://report.roa.ai/article/172565"/>
-        <updated>2022-06-03T03:16:35.260Z</updated>
-        <content type="html"><![CDATA[안드레센 호로위츠(Andreessen Horowitz, a16z)가 최근 56페이지 분량의 암호화폐 보고서를 발간했습니다. 안드레센 호로위츠는 암호화폐의 대표적인 낙관론자 중 하나이며, 지금까지 네 차례의 암호화폐 펀드를 발표한 바 있기도 한데요. 이번 달에 발표한 4차 펀드의 경우, 3차 펀드(22억 달러)의 두배가 넘는 45억 달러로 구성하며, 암호화폐]]></content>
     </entry>
 </feed>
