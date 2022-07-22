@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-07-22T02:19:57.928Z</updated>
+    <updated>2022-07-22T04:10:30.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스와 광고 파트너십 체결한 마이크로소프트, 광고계 조연에서 주연으로 부상한 배경은?]]></title>
+        <id>https://report.roa.ai/article/172595</id>
+        <link href="https://report.roa.ai/article/172595"/>
+        <updated>2022-07-22T04:10:20.661Z</updated>
+        <content type="html"><![CDATA[지난 7월 13일, 넷플릭스(Netflix)가 마이크로소프트(Microsoft)와 제휴를 체결하여 광고 지원 스트리밍 구독 플랜(ad-supported streaming subscription plan) 서비스를 보다 합리적인 가격에 제공할 계획이라고 발표했습니다. 이번 발표는 미국 온라인 광고 비즈니스 시장에서 구글(Google) 등에 뒤쳐져 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생산량 증가에도 반도체가 부족하고 주가가 하락하는 이유는?]]></title>
         <id>https://report.roa.ai/article/172593</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172572"/>
         <updated>2022-06-17T07:20:57.264Z</updated>
         <content type="html"><![CDATA[러시아의 우크라이나 침공부터 물가 안정을 위해 미국에서 계속해서 금리를 인상하는 등 다양한 글로벌 이슈를 배경으로 전세계 금융 시장이 위축되는 모습을 보이고 있는데요. 불안정한 시장 분위기가 전 세계적인 벤처 투자 철수로 이어지고 있는 가운데, 제약바이오 산업도 이를  피하지 못하고 있습니다.최근 시점인 6월 중순 경 후보물질의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블룸버그가 금융 데이터 플랫폼에 NLP를 활용하는 방법]]></title>
-        <id>https://report.roa.ai/article/172571</id>
-        <link href="https://report.roa.ai/article/172571"/>
-        <updated>2022-06-13T06:30:03.413Z</updated>
-        <content type="html"><![CDATA[블룸버그를 생각하면, 케이블 TV와 라디오 채널을 포함한 뉴스서비스, 혹은 웹사이트와 같은 서비스들을 떠올리곤 합니다. 하지만, 블룸버그는 대부분의 매출을 금융 데이터 플랫폼인 블룸버그 터미널을 통해 거두어들이고 있습니다. 한화로 1조 원이 넘는 블룸버그의 매출 중 80% 가까이가 터미널 제공을 통해 발생하는 것으로 알려지고 있기도 합니다. 국내에]]></content>
     </entry>
 </feed>
