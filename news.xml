@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-07-24T23:23:10.561Z</updated>
+    <updated>2022-07-25T02:13:14.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[넥스트 SaaS 유니콘을 찾는 방법, KPI]]></title>
+        <id>https://report.roa.ai/article/172596</id>
+        <link href="https://report.roa.ai/article/172596"/>
+        <updated>2022-07-25T02:13:03.420Z</updated>
+        <content type="html"><![CDATA[KPI(Key Performance Indicator) 혹은 핵심성과지표는 기업의 퍼포먼스를 나타내는 정량적인 지표로. 스타트업 업계에서는 스타트업의 성장가능성을 판단하는 척도로도 사용하기도 하는데요. 하지만, 기업의 퍼포먼스를 정확히 측정하기 위해서는 영역별 혹은 기업규모별로 살펴봐야할 KPI가 상이하며, 고객 수, 매출과 같은 단순한 지표를 넘어 더욱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스와 광고 파트너십 체결한 마이크로소프트, 광고계 조연에서 주연으로 부상한 배경은?]]></title>
         <id>https://report.roa.ai/article/172595</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172567"/>
         <updated>2022-06-21T08:34:29.545Z</updated>
         <content type="html"><![CDATA[오늘날, 물류 창고에서부터 병원 및 건설 현장에 이르기까지 다양한 산업에서 로봇이 활용되고 있습니다. 기술의 진보와 더불어 이제는 삶 속에 다양하게 침투한 로봇에 대한 투자 열기가 계속되고 있는데요. 이번 로아리포트에서는 투자 열기가 식지않는 로봇 산업과 로봇의 주요 유형 및 사업자, 로봇 산업이 활황인 이유 및 향후 전망에 대해 알아보고자 합니다.&amp;nbs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 정점 찍고 둔화된 제약바이오 투자, 주요 특징은?]]></title>
-        <id>https://report.roa.ai/article/172572</id>
-        <link href="https://report.roa.ai/article/172572"/>
-        <updated>2022-06-17T07:20:57.264Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나 침공부터 물가 안정을 위해 미국에서 계속해서 금리를 인상하는 등 다양한 글로벌 이슈를 배경으로 전세계 금융 시장이 위축되는 모습을 보이고 있는데요. 불안정한 시장 분위기가 전 세계적인 벤처 투자 철수로 이어지고 있는 가운데, 제약바이오 산업도 이를  피하지 못하고 있습니다.최근 시점인 6월 중순 경 후보물질의]]></content>
     </entry>
 </feed>
