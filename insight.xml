@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-07-26T02:28:23.561Z</updated>
+    <updated>2022-07-26T04:33:59.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[7월 셋째주_글로벌 유니콘] 콘텐츠스퀘어 外 3곳]]></title>
+        <id>https://report.roa.ai/article/172598</id>
+        <link href="https://report.roa.ai/article/172598"/>
+        <updated>2022-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지난 한 주간(7월 18일~22일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 7월 셋째 주에는 클래스도조(ClassDojo)가 새롭게 유니콘에 등극해 주목 받았습니다. 클래스도조의 경우, 실제 투자는 지난해 9월 이루어졌지만 투자 사실이 이번에 공개된 것입니다.또한 기존 유니콘이었던 콘텐츠스퀘어(ContentSquare)와 왓낫(Whatno]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[7월 둘째주_글로벌 유니콘] 클라나 外 3곳]]></title>
         <id>https://report.roa.ai/article/172594</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172564"/>
         <updated>2022-05-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[주간 이슈 동향 - 불확실성 높은 시기에 발표된 두가지 빅딜5월 넷째 주(5월 21일~5월 27일), 테크 기업 성장 둔화로 투자가 축소되고 암호화폐도 불안정한 이러한 시국에 두가지 빅 딜이 눈에 확연하게 띄는데요. 바로 안드레센 호로위츠의 최대 규모 크립토 펀드 조성(45억 달러 규모)과 브로드컴의 VM웨어 인수(인수가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 주간 이슈 브리핑] 서로의 고유 영역에 진출한 FTX와 로빈후드 & 핀테크에 투자가 집중]]></title>
-        <id>https://report.roa.ai/article/172559</id>
-        <link href="https://report.roa.ai/article/172559"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[주간 이슈 동향 - 서로의 고유 영역에 진출한 FTX와 로빈후드5월 셋째 주(5월 14일~5월 20일), 매우 바쁜 동향을 보여준 곳은 바로 암호화폐 사업자들입니다. Terra USD 등 일부 스테이블 코인의 붕괴 이후 암호화폐 및 디지털 자산 투자자들에 대한 기관 및 정부의 경고가 쏟아지고 있음에도, 사업자들의 움직임이 멈추지]]></content>
     </entry>
 </feed>
