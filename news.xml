@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-08-01T04:37:43.728Z</updated>
+    <updated>2022-08-01T05:56:21.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존-원메디컬, 인수소식과 그 배경은?]]></title>
+        <id>https://report.roa.ai/article/172600</id>
+        <link href="https://report.roa.ai/article/172600"/>
+        <updated>2022-08-01T05:56:12.280Z</updated>
+        <content type="html"><![CDATA[아마존(Amazon)이 온/오프라인 헬스케어 서비스 업체 원메디컬(One Medical)을 인수하며 헬스케어 비즈니스로의 영향력을 재차 강화하고 있습니다. 몇 달 전부터 소문이 돌던 이번 인수 소식은 지난 주에 공식적으로 발표되었는데요. 이번 아티클에서는 아마존이 인수한 원메디컬의 서비스부터 아마존의 헬스케어 비전까지 살펴보고자 합니다.아마존의 원메디컬 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마인크래프트, NFT 거래 지원 중단 발표...그 배경은?]]></title>
         <id>https://report.roa.ai/article/172599</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172575"/>
         <updated>2022-06-24T08:30:00.095Z</updated>
         <content type="html"><![CDATA[트위터(Twitter), 페이스북(Facebook), 인스타그램(Instagram) 등 SNS에 개인의 일상을 공유하고, 심심할때 타인의 삶을 엿보는 일은 이제 하나의 습관처럼 되어버렸는데요. 하지만, 지나치게 많은 정보의 노출로 인한 피로도 증가 및 미화된 일상 공유 등의 다양한 이슈로 SNS의 역기능이 대두되고 있기도 합니다. 이러한 SNS 트렌드가 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰아치는 매도세에 요동치는 비상장 주식 시장]]></title>
-        <id>https://report.roa.ai/article/172573</id>
-        <link href="https://report.roa.ai/article/172573"/>
-        <updated>2022-06-24T02:10:45.399Z</updated>
-        <content type="html"><![CDATA[팬데믹 기간 동안 테크 기업가치가 급증하자, 상당 수의 개인 투자자들이 주식시장에 뛰어들었습니다. 이러한 관심은 상장사에만 국한된 것이 아니었는데요. 두나무(증권플러스 비상장), 피에스엑스(서울거래 비상장)와 같이 비상장 기업의 주식을 거래할 수 있는 플랫폼들 또한 큰 인기를 끌었습니다. 이번 달에는 대신증권 또한 줌인터넷과 파트너십을 바탕으로 비상장주식]]></content>
     </entry>
 </feed>
