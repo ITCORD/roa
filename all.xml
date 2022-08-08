@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-08T06:32:20.638Z</updated>
+    <updated>2022-08-08T07:22:03.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[에이치피에스피, 고압수소 열처리 장비 기술력 원탑 존재감 드러내 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172603</id>
+        <link href="https://report.roa.ai/article/172603"/>
+        <updated>2022-08-08T07:21:53.378Z</updated>
+        <content type="html"><![CDATA[고압수소 열처리 장비 글로벌 독점 기업에이치피에스피(HPSP, High Pressure Solution Provier)는 반도체 회로의 패턴 미세화에 의해 발생 가능한 인터페이스(계면) 결함을 전기적으로 비활성화 시키는 ‘고압수소 어닐링 공정 장비’를 제조하는 업체입니다. 현재로서는 글로벌 메이저 반도체 기업 모두에 납품하는 국내 유일의 전 공정 장비 업체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틱톡과 유사한 개편을 준비 중인 메타, SNS 종말의 신호인가... (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172602</id>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172578"/>
         <updated>2022-06-28T09:22:37.913Z</updated>
         <content type="html"><![CDATA[메타라는 새로운 사명까지 공개하며 리브랜딩했지만 정작 투자자들은 메타의 비전에 크게 공감하지 못하는 것 같습니다. 지난해 10월 리브랜딩한 이후 주가가 40% 가까이 떨어지면서, 메타는 3,490억 달러의 시총이 몇 개월만에 증발되었습니다. 이는 마켓 평균대비 3배에 달하는 하락세로, 메타를 둘러싼 회사 내외의 우려는 가중되고 있습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 SEC 최초 승인, 비트코인 ETF(BITO)에 관한 고찰 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172577</id>
-        <link href="https://report.roa.ai/article/172577"/>
-        <updated>2022-06-24T09:22:17.897Z</updated>
-        <content type="html"><![CDATA[현지 시각 6월21일, 미국 자산운용사 '프로셰어즈(Proshares)'가 뉴욕증권거래소(NYSE)에 '프로셰어즈 숏 비트코인 스트래티지 ETF'를 상장해 주목받고 있습니다. 상장된 ETF의 티커명은 'BITI'입니다. 해당 ETF는 시카고 상업거래소(이하 CME)에서 거래되는 비트코인 선물 가격이 하락하면 수익을 낼 수 있도록 설계되었으며, 기존에 해외에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[7월 넷째주_글로벌 유니콘] 앱토스 外 3곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
