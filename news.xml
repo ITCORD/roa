@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-08-09T02:21:06.785Z</updated>
+    <updated>2022-08-09T04:02:55.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[숲으로 탄소 배출을 상쇄하는, 탄소 크레딧 시장]]></title>
+        <id>https://report.roa.ai/article/172604</id>
+        <link href="https://report.roa.ai/article/172604"/>
+        <updated>2022-08-09T04:02:47.181Z</updated>
+        <content type="html"><![CDATA[많은 글로벌 기업들이 '넷 제로(Net Zero)' 실현을 목표로 하고 있는 만큼, 탄소 배출을 상쇄하기 위해 산림 투자와 같은 사업에 적극적으로 뛰어들고 있습니다. 이는 단연 해외에서만 보이는 움직임은 아닙니다. 수 십년째 산림지를 관리해온 SK 그룹의 경우, 산림이 흡수할 수 있는 탄소량을 크레딧으로 만들어 거래하기 시작했으며, 국내 증권사들 또한 관련]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이치피에스피, 고압수소 열처리 장비 기술력 원탑 존재감 드러내]]></title>
         <id>https://report.roa.ai/article/172603</id>
         <link href="https://report.roa.ai/article/172603"/>
         <updated>2022-08-08T07:21:53.378Z</updated>
-        <content type="html"><![CDATA[고압수소 열처리 장비 글로벌 독점 기업7월 15일 코스닥 시장에 상장한 에이치피에스피(HPSP, High Pressure Solution Provier)는 반도체 회로의 패턴 미세화에 의해 발생 가능한 인터페이스(계면) 결함을 전기적으로 비활성화 시키는 ‘고압수소 어닐링 공정 장비’를 제조하는 업체입니다. 현재로서는 글로벌 메이저 반도체 기업 모두에 납품하]]></content>
+        <content type="html"><![CDATA[고압수소 열처리 장비 글로벌 독점 기업 - HPSP7월 15일 코스닥 시장에 상장한 에이치피에스피(HPSP, High Pressure Solution Provier)는 반도체 회로의 패턴 미세화에 의해 발생 가능한 인터페이스(계면) 결함을 전기적으로 비활성화 시키는 ‘고압수소 어닐링 공정 장비’를 제조하는 업체입니다. 현재로서는 글로벌 메이저 반도체 기업]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틱톡과 유사한 개편을 준비 중인 메타, SNS 종말의 신호인가...]]></title>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172580"/>
         <updated>2022-06-29T02:16:23.947Z</updated>
         <content type="html"><![CDATA[글로벌 자동차 제조업체 볼보(Volvo)가 생산하는 전기차(이하 EV) 브랜드 폴스타가 24일(미국 현지 시간)부터 미국 나스닥 시장에 공식 상장(티커명 ‘PSNY’)되어 거래를 시작했습니다. 상장 방식은 폴스타가 기업인수목적회사(스펙, 이하 SPAC)인 고어스 구겐하임(NAS:GGPI)과 합병하는 소위 ‘우회 상장’ 방식이었습니다. 토마스 잉엔라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[격동의 시기를 맞이한 메타, 핵심 쟁점과 내부 관계자들의 전망]]></title>
-        <id>https://report.roa.ai/article/172578</id>
-        <link href="https://report.roa.ai/article/172578"/>
-        <updated>2022-06-28T09:22:37.913Z</updated>
-        <content type="html"><![CDATA[메타라는 새로운 사명까지 공개하며 리브랜딩했지만 정작 투자자들은 메타의 비전에 크게 공감하지 못하는 것 같습니다. 지난해 10월 리브랜딩한 이후 주가가 40% 가까이 떨어지면서, 메타는 3,490억 달러의 시총이 몇 개월만에 증발되었습니다. 이는 마켓 평균대비 3배에 달하는 하락세로, 메타를 둘러싼 회사 내외의 우려는 가중되고 있습니다.]]></content>
     </entry>
 </feed>
