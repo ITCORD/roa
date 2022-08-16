@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-08-16T05:23:28.945Z</updated>
+    <updated>2022-08-16T06:28:52.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에너지 산업의 변화가 불러온 '나비 효과']]></title>
+        <id>https://report.roa.ai/article/172609</id>
+        <link href="https://report.roa.ai/article/172609"/>
+        <updated>2022-08-16T06:28:43.884Z</updated>
+        <content type="html"><![CDATA[에너지 산업의 변화가 불러온 나비 효과현대 문명은 산업혁명에서 시작되었습니다. 인류 역사의 발전도 에너지 혁명을 통해 이루어졌다고 해도 과언이 아닙니다. 2000년부터 국제 유가 흐름을 살펴보면, 2000년대에는 중국 경제가 급성장하면서 에너지 수요가 급증했고 이후 유가도 6년간 상승세를 보였습니다. 2007년부터 2008년 사이 배럴 당 120달러까지 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT와 리워드 프로그램의 만남, 스타벅스는 어떤 미래를 준비 중일까?]]></title>
         <id>https://report.roa.ai/article/172606</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172585"/>
         <updated>2022-07-07T09:22:31.120Z</updated>
         <content type="html"><![CDATA[팬데믹으로 가장 수혜를 입은 산업 중 한 곳은 바로 이커머스 부문인데요. 팬데믹 기간동안 격리가 시작되자 오프라인 쇼핑몰들이 문을 닫았고, 비대면으로 할 수 있는 온라인 쇼핑에 대한 수요가 크게 증가했습니다. 현재는 팬데믹 이전과 비교할 수 없을 정도로 많은 사람들이 디지털 쇼핑으로 물건을 구매하고 있으며, 이는 브랜드들의 매출을 좌우하는 하나의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암흑기인 암호화폐 시장에서 유일하게 상승한 "메타버스 토큰"... 게임 산업과 메타버스의 만남]]></title>
-        <id>https://report.roa.ai/article/172581</id>
-        <link href="https://report.roa.ai/article/172581"/>
-        <updated>2022-06-30T04:02:14.842Z</updated>
-        <content type="html"><![CDATA[지난해 최고의 투자 성과를 보이며 기록적인 해를 보냈던 암호화폐 시장이 올해에는 큰 폭으로 하락하며 고전을 면치 못하고 있는데요. 이러한 하락장에도 불구하고, 메타버스 토큰이 암흑기를 보내고 있는 암호화폐 시장에서 남다른 행보를 보이고 있습니다. 비즈니스 인사이더(Business Insider)는 디센트럴랜드(Decentraland), 샌드박스(S]]></content>
     </entry>
 </feed>
