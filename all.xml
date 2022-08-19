@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-19T07:23:52.144Z</updated>
+    <updated>2022-08-19T08:29:25.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[블록체인에 투자하는 글로벌 상장사들 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -114,22 +114,14 @@
         <id>https://report.roa.ai/article/172613</id>
         <link href="https://report.roa.ai/article/172613"/>
         <updated>2022-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="articleItem__Row"><figure class="articleItem__Col--left" style="background:url(https://images.roa.ai/articles/2022/08/91e73f48-1f73-11ed-b79f-0a58a9feac02.webp) no-repeat center center / contain"><a class="articleItem__link" href="/article/172613"></a></figure><div class="articleItem__Col--tags"></div><div class="articleItem__Col--right"><a class="title" href="/article/172613">[데일리 뉴스레터] 텐센트, 사상 처음으로 분기별 매출 감소 </a><span class="ant-dropdown-trigger resp resp-mobile custom-svg custom-svg__more cursor-pointer" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;min-width:32px;vertical-align:middle"><span><svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" class="injected-svg" data-src="https://roa-svg.s3.ap-northeast-2.amazonaws.com/svg/more.svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: middle; fill: rgb(31, 31, 32); width: 32px; height: 32px;">
-<path d="M36 16C36 18.2091 34.2091 20 32 20C29.7909 20 28 18.2091 28 16C28 13.7909 29.7909 12 32 12C34.2091 12 36 13.7909 36 16Z" fill="#1F1F20"></path>
-<path d="M36 32C36 34.2091 34.2091 36 32 36C29.7909 36 28 34.2091 28 32C28 29.7909 29.7909 28 32 28C34.2091 28 36 29.7909 36 32Z" fill="#1F1F20"></path>
-<path d="M32 52C34.2091 52 36 50.2091 36 48C36 45.7909 34.2091 44 32 44C29.7909 44 28 45.7909 28 48C28 50.2091 29.7909 52 32 52Z" fill="#1F1F20"></path>
-</svg></span></span></div><span class="articleItem__published">22. 08. 19</span></div>]]></content>
+        <content type="html"><![CDATA[2분기 매출 1,340억 3,000만 위안(197억 8,000만 달러)으로 YoY 3% 감소, 중국 내 게임 매출 318억 위안으로 YoY 1% 감소, 온라인 광고 매출 186억 위안으로 YoY 18% 감소했으며, 중국 규제 당국의 게임에 대한 규제와 코로나 방역으로 인한 봉쇄에 영향 받았기 때문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 뉴스레터] 반도체 기업, 팬데믹 기간 매출 급증 이후 최악의 하락세 맞을 위기 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172614</id>
         <link href="https://report.roa.ai/article/172614"/>
         <updated>2022-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="articleItem__Row"><figure class="articleItem__Col--left" style="background:url(https://images.roa.ai/articles/2022/08/6e911706-1f75-11ed-b79f-0a58a9feac02.jpeg) no-repeat center center / contain"><a class="articleItem__link" href="/article/172614"></a></figure><div class="articleItem__Col--tags"></div><div class="articleItem__Col--right"><a class="title" href="/article/172614">[데일리 뉴스레터] 반도체 기업, 팬데믹 기간 매출 급증 이후 최악의 하락세 맞을 위기</a><span class="ant-dropdown-trigger resp resp-mobile custom-svg custom-svg__more cursor-pointer" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;min-width:32px;vertical-align:middle"><span><svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" class="injected-svg" data-src="https://roa-svg.s3.ap-northeast-2.amazonaws.com/svg/more.svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: middle; fill: rgb(31, 31, 32); width: 32px; height: 32px;">
-<path d="M36 16C36 18.2091 34.2091 20 32 20C29.7909 20 28 18.2091 28 16C28 13.7909 29.7909 12 32 12C34.2091 12 36 13.7909 36 16Z" fill="#1F1F20"></path>
-<path d="M36 32C36 34.2091 34.2091 36 32 36C29.7909 36 28 34.2091 28 32C28 29.7909 29.7909 28 32 28C34.2091 28 36 29.7909 36 32Z" fill="#1F1F20"></path>
-<path d="M32 52C34.2091 52 36 50.2091 36 48C36 45.7909 34.2091 44 32 44C29.7909 44 28 45.7909 28 48C28 50.2091 29.7909 52 32 52Z" fill="#1F1F20"></path>
-</svg></span></span></div><span class="articleItem__published">22. 08. 18</span></div>]]></content>
+        <content type="html"><![CDATA[팬데믹이 PC 및 기타 장치에 대한 수요를 촉발시켜 판매 및 주가가 최고가를 경신했지만, 이제 소비자는 고가 구매를 줄이고 있어 반도체 제조 업체는 재고 증가와 수요 감소 문제에 직면하고 있으며, 엔비디아·마이크론 등이 수요 감소를 경고하고 있고, 경기 침체에 빠지는 동시에 재고가 증가하면 불황이 오래 지속될 수도 있어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[8월 둘째주_글로벌 유니콘] 업그래드 外 1곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -143,11 +135,7 @@
         <id>https://report.roa.ai/article/172615</id>
         <link href="https://report.roa.ai/article/172615"/>
         <updated>2022-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="articleItem__Row"><figure class="articleItem__Col--left" style="background:url(https://images.roa.ai/articles/2022/08/3ea48112-1f76-11ed-b79f-0a58a9feac02.jpeg) no-repeat center center / contain"><a class="articleItem__link" href="/article/172615"></a></figure><div class="articleItem__Col--tags"></div><div class="articleItem__Col--right"><a class="title" href="/article/172615">[데일리 뉴스레터] 조지 소로스, 테슬라·포드 주식 매수 </a><span class="ant-dropdown-trigger resp resp-mobile custom-svg custom-svg__more cursor-pointer" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;min-width:32px;vertical-align:middle"><span><svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" class="injected-svg" data-src="https://roa-svg.s3.ap-northeast-2.amazonaws.com/svg/more.svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: middle; fill: rgb(31, 31, 32); width: 32px; height: 32px;">
-<path d="M36 16C36 18.2091 34.2091 20 32 20C29.7909 20 28 18.2091 28 16C28 13.7909 29.7909 12 32 12C34.2091 12 36 13.7909 36 16Z" fill="#1F1F20"></path>
-<path d="M36 32C36 34.2091 34.2091 36 32 36C29.7909 36 28 34.2091 28 32C28 29.7909 29.7909 28 32 28C34.2091 28 36 29.7909 36 32Z" fill="#1F1F20"></path>
-<path d="M32 52C34.2091 52 36 50.2091 36 48C36 45.7909 34.2091 44 32 44C29.7909 44 28 45.7909 28 48C28 50.2091 29.7909 52 32 52Z" fill="#1F1F20"></path>
-</svg></span></span></div><span class="articleItem__published">22. 08. 17</span></div>]]></content>
+        <content type="html"><![CDATA[무공해 기업에 투자하겠다고 밝힌 바 있는 소로스는 처음으로 테슬라 주식 약 3만 주를 2,000만 달러 이상에, 포드의 주식 약 2,950만 주를 2,700만 달러 이상에 매입했고, 루시드·니오(Nio) 등 다른 EV 회사의 지분도 늘려]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[7월 글로벌 투자 브리핑] 메가라운드 투자 유치 기업 111곳에 48조원 규모 투자가 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -157,15 +145,11 @@
         <content type="html"><![CDATA[*로아엔진에서 수집된 글로벌 투자 뉴스와 크런치베이스(Crunchbase) 데이터를 기반으로 하여 정리해드리는 [글로벌 월간 투자 브리핑] 코너입니다. 2022년 7월 1일부터 7월 31일 사이에 메가라운드 투자를 유치한 기업들을 중심으로 정리하였습니다.* 메가라운드란 1억 달러(1천억 원) 이상의 투자를 유치한 라운드를 의미 글로벌에는 총 111]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚘 조비 에비에이션, 미 국방부와 계약 7,500만 달러로 확대 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <title type="html"><![CDATA[[데일리 뉴스레터] 조비 에비에이션, 미 국방부와 계약 7,500만 달러로 확대 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172616</id>
         <link href="https://report.roa.ai/article/172616"/>
         <updated>2022-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="articleItem__Row"><figure class="articleItem__Col--left" style="background:url(https://images.roa.ai/articles/2022/08/7621935e-1f77-11ed-b79f-0a58a9feac02.png) no-repeat center center / contain"><a class="articleItem__link" href="/article/172616"></a></figure><div class="articleItem__Col--tags"></div><div class="articleItem__Col--right"><a class="title" href="/article/172616">🚘 조비 에비에이션, 미 국방부와 계약 7,500만 달러로 확대</a><span class="ant-dropdown-trigger resp resp-mobile custom-svg custom-svg__more cursor-pointer" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;min-width:32px;vertical-align:middle"><span><svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" class="injected-svg" data-src="https://roa-svg.s3.ap-northeast-2.amazonaws.com/svg/more.svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: middle; fill: rgb(31, 31, 32); width: 32px; height: 32px;">
-<path d="M36 16C36 18.2091 34.2091 20 32 20C29.7909 20 28 18.2091 28 16C28 13.7909 29.7909 12 32 12C34.2091 12 36 13.7909 36 16Z" fill="#1F1F20"></path>
-<path d="M36 32C36 34.2091 34.2091 36 32 36C29.7909 36 28 34.2091 28 32C28 29.7909 29.7909 28 32 28C34.2091 28 36 29.7909 36 32Z" fill="#1F1F20"></path>
-<path d="M32 52C34.2091 52 36 50.2091 36 48C36 45.7909 34.2091 44 32 44C29.7909 44 28 45.7909 28 48C28 50.2091 29.7909 52 32 52Z" fill="#1F1F20"></path>
-</svg></span></span></div><span class="articleItem__published">22. 08. 16</span></div>]]></content>
+        <content type="html"><![CDATA[eVTOL을 생산하는 조비 에비에이션과 국방부와의 계약은 3,000만 달러 규모에서 두 배 이상 증가했고, 조비는 지난 2년 동안 공군과 협력해 4명의 승객을 시속 200마일의 속도로 운송할 수 있는 프로토타입 항공기를 테스트해왔으며, 2024년 에어 택시 출시를 목표로 하고 있는 조비는 추가 계약이 서비스 출시 전 제조·비행 운영 능력 및 기타 기능을 개]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[7월 국내 투자 브리핑] 151개 기업에 6.7조원 투자 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -175,11 +159,32 @@
         <content type="html"><![CDATA[*로아엔진이 수집-선별한 뉴스를 토대로 정리해드리는 [국내 월간 투자 브리핑] 코너입니다. 2022년 7월 1일부터 7월 31일 사이에 공개된 투자 소식을 기반으로 정리하였습니다. 스타트업 대상 투자를 비롯하여, 대기업과 중견기업을 대상으로 이루어진 투자 소식을 모두 포함하여 전해드립니]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[데일리 뉴스레터] 소프트뱅크, 알리바바 지분 축소로 340억 달러 이익 기대 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172628</id>
+        <link href="https://report.roa.ai/article/172628"/>
+        <updated>2022-08-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지난 분기 230억 달러의 기록적인 손실을 기록한 소프트뱅크는 6월 30일 기준 알리바바 지분율 23.7%을 9월 말까지 14.6%로 축소할 예정이며, 알리바바 주식을 포기함으로써 가혹한 시장 환경에 대한 방어를 강화하고 현금 유출에 대한 우려를 불식시키겠다고 밝혀]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[틱톡과 유사한 개편 준비 중인 '메타', SNS 종말의 신호인가? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172617</id>
         <link href="https://report.roa.ai/article/172617"/>
         <updated>2022-08-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[👉🏻 리포트 원문 보러가기 &amp;gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리 뉴스레터] 마이크론, 2023년까지 미국 메모리 공장에 400억 달러 투자 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172629</id>
+        <link href="https://report.roa.ai/article/172629"/>
+        <updated>2022-08-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이 계획은 마이크론이 작년에 밝힌 1,500억 달러 규모의 글로벌 투자의 일환으로, 반도체 및 과학 지원법(Chips and Science Act)의 지원을 받을 수 있을 것이며, 마이크론의 국내 반도체 제조 능력이 미국의 국가 안보와 공급망 복원에 도움이 될 것이고, 2025년 이후 반도체 생산을 시작해 4만 개의 일자리를 창출할 수 있을 것이라고 밝혀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리 뉴스레터] 팔란티어, 실적 발표 후 14% 이상 급락 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172631</id>
+        <link href="https://report.roa.ai/article/172631"/>
+        <updated>2022-08-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[매출 4억 7,300만 달러(예상치 4억 7,130만 달러)로 YoY 26% 증가했지만, 주당순손실이 1센트로 예상치인 주당순이익 3센트에 미치지 못했고, 3분기 매출 4억 7,400만~4억 7,500만 달러·올해 매출 19억~19억 2,000만 달러로 전망해]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[8월 첫째주_글로벌 유니콘] 클라비요 1곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -189,45 +194,24 @@
         <content type="html"><![CDATA[지난 한 주간(8월 1일~5일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 8월 첫째 주에는 기존 유니콘 기업이었던 마케팅 자동화 플랫폼인 클라비요(Klaviyo)가 쇼피파이(Shopify)로부터 전략적 투자를 유치한 것으로 나타났습니다. 클라비요는 지난해 5월 시리즈 D 라운드 투자(3억 2,000만 달러) 유치를 통해 9]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[위클리 뉴스레터] 틱톡과 유사한 개편을 준비 중인 메타, SNS 종말의 신호인가? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172636</id>
+        <link href="https://report.roa.ai/article/172636"/>
+        <updated>2022-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[틱톡과 유사한 개편을 준비 중인 메타, SNS 종말의 신호인가?숲으로 탄소 배출 상쇄하는 '탄소 크레딧' 시장에이치피에스피(HPSP), 고압수소 열처리 장비 기술력 원탑 존재감 드러내]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리 뉴스레터] 위워크, 오피스 입주율 72%로 팬데믹 이전 수준 회복 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172633</id>
+        <link href="https://report.roa.ai/article/172633"/>
+        <updated>2022-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[72%는 팬데믹 이전 2019년 말과 같은 수준으로, 팬데믹 기간 동안 46%까지 떨어졌던 오피스 입주율을 회복한 것이지만, 매출 8억 1,500만 달러(예상치 8억 2,100만 달러)·손실 6억 3,500만 달러(예상치 4억 7,900만 달러)로 부진해 주가 3.7% 하락]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[7월 넷째주_글로벌 유니콘] 앱토스 外 3곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172601</id>
         <link href="https://report.roa.ai/article/172601"/>
         <updated>2022-08-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지난 한 주간(7월 25일~29일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 7월 셋째 주에는 에버사이드 헬스(Everside Health)가 새롭게 유니콘에 등극해 주목 받았습니다. 또한 기존 유니콘 기업이었던 옥토퍼스 에너지(Octopus Energy)와 아크로니스(Acronis), 앱토스(Aptos), 세 곳이 신규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스와 광고 계약한 마이크로소프트, 광고계 주연으로? (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172618</id>
-        <link href="https://report.roa.ai/article/172618"/>
-        <updated>2022-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[👉🏻 리포트 원문 보러가기 &amp;gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7월 셋째주_글로벌 유니콘] 콘텐츠스퀘어 外 3곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172598</id>
-        <link href="https://report.roa.ai/article/172598"/>
-        <updated>2022-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지난 한 주간(7월 18일~22일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 7월 셋째 주에는 클래스도조(ClassDojo)가 새롭게 유니콘에 등극해 주목 받았습니다. 클래스도조의 경우, 실제 투자는 지난해 9월 이루어졌지만 투자 사실이 이번에 공개된 것입니다.또한 기존 유니콘이었던 콘텐츠스퀘어(ContentSquare)와 왓낫(Whatno]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7월 둘째주_글로벌 유니콘] 클라나 外 3곳 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172594</id>
-        <link href="https://report.roa.ai/article/172594"/>
-        <updated>2022-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지난 한 주간(7월 11일~15일) 글로벌 외신 뉴스를 1일 단위로 트랙킹한 결과, 7월 둘째 주에는 원카드(OneCard)와 싱글스토어(SingleStore) 등 유니콘 스타트업 2곳이 새롭게 등장해 주목 받았습니다. 또한 BNPL의 대표 주자인 클라나(Klarna)가 밸류에이션이 하락한 가치로 투자를 유치했습니다.▶ 지난주 글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2분기 글로벌 M&A/ IPO 브리핑] 총 314건의 M&A, 24건의 IPO 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172592</id>
-        <link href="https://report.roa.ai/article/172592"/>
-        <updated>2022-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*로아엔진이 수집-선별한 뉴스와 크런치베이스(Crunchbase), 글로벌 상장 데이터 등 외부 데이터를 토대로 정리해 드리는 [글로벌 M&amp;A/ IPO 브리핑] 코너입니다. 2022년 2분기인 4월 1일부터 6월 30일 사이에 공개된 소식을 기반으로 정리하였습니다. 글로벌 M&amp;A 동향올해 2분기에는 총 314건의 M]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[6월 글로벌 투자 브리핑] 메가라운드 투자 유치 기업 134곳에 70조원 규모의 투자가 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172591</id>
-        <link href="https://report.roa.ai/article/172591"/>
-        <updated>2022-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*로아엔진에서 수집된 글로벌 투자 뉴스 및 크런치베이스(Crunchbase) 데이터를 토대로 정리해 드리는 [글로벌 월간 투자 브리핑] 코너입니다. 2022년 6월 1일부터 6월 30일 사이에 메가라운드 투자를 유치한 기업들을 중심으로 정리하였습니다.* 메가라운드란 1억 달러(1천억 원) 이상의 투자를 유치한 라운드를 의미 글로벌에는 총 134건의]]></content>
     </entry>
 </feed>
