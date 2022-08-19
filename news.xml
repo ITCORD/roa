@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-08-19T04:09:59.086Z</updated>
+    <updated>2022-08-19T05:32:23.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[세계에서 가장 인기있는 비디오 게임 중 하나인 마인크래프트(Minecraft)가 자사 서버에서 앞으로 NFT 및 블록체인을 지원하지 않으며, 자산 기반의 NFT 프로젝트 생성을 금지한다고 발표했습니다. 해당 기술이 독점과 이익만을 최우선시 하는 문화로 이어질 수 있다고 우려하며 그 이유를 설명했는데요. 이번 로아 리포트에서는 마인크래프트의 이러한 결정과 N]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[7월 셋째주_글로벌 유니콘] 콘텐츠스퀘어 外 3곳]]></title>
-        <id>https://report.roa.ai/article/172598</id>
-        <link href="https://report.roa.ai/article/172598"/>
-        <updated>2022-08-19T04:09:50.398Z</updated>
-        <content type="html"><![CDATA[지난 한 주간(7월 18일~22일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 7월 셋째 주에는 클래스도조(ClassDojo)가 새롭게 유니콘에 등극해 주목 받았습니다. 클래스도조의 경우, 실제 투자는 지난해 9월 이루어졌지만 투자 사실이 이번에 공개된 것입니다.또한 기존 유니콘이었던 콘텐츠스퀘어(ContentSquare)와 왓낫(Whatno]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[성큼 다가온 양자 컴퓨터 시대, 아이온큐 산업 주도권 잡을까?]]></title>
         <id>https://report.roa.ai/article/172597</id>
         <link href="https://report.roa.ai/article/172597"/>
@@ -109,5 +102,12 @@
         <link href="https://report.roa.ai/article/172590"/>
         <updated>2022-07-15T04:21:04.693Z</updated>
         <content type="html"><![CDATA[핀테크 산업은 VC 투자자들에게 있어 가장 인기있는 투자 부문 중 한 곳인데요. 지난 해, 5달러 중 1달러의 투자금이 핀테크 스타트업에 유입된 것으로 조사되며 그 큰 인기를 증명했지만, 지금은 경기침체 우려와 더불어 투자자들 역시 소극적인 행보를 보이고 있습니다. CB 인사이트(CB Insight)에 따르면, 2022년 1분기에 핀테크 기업에 대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플까지 뛰어든 BNPL 시장, 현위치와 전망은?]]></title>
+        <id>https://report.roa.ai/article/172587</id>
+        <link href="https://report.roa.ai/article/172587"/>
+        <updated>2022-08-19T05:32:13.958Z</updated>
+        <content type="html"><![CDATA[지난해부터 소액 후불 결제 서비스 관련 규제가 완화됨에 따라, 한국에서도 플랫폼 사업자들을 중심으로 BNPL 서비스가 빠르게 도입되기 시작했습니다. 2021년에는 네이버페이와 쿠팡이 처음으로  BNPL 서비스를 선보이기 시작했으며, 올해는 카카오와 토스 또한 해당 영역에 뛰어들었는데요. 이번 아티클에서는 BNPL 서비스의 개념과 해당 서비스를 제공]]></content>
     </entry>
 </feed>
