@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-08-23T04:47:50.122Z</updated>
+    <updated>2022-08-23T05:57:46.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 찾아온 봄, AI 전용칩 제작 스타트업 향한 투자 활황]]></title>
+        <id>https://report.roa.ai/article/172630</id>
+        <link href="https://report.roa.ai/article/172630"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[👉🏻 리포트 원문 보러가기 &amp;gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프랑스 정부의 전폭적 지지 받는 스타트업들!]]></title>
+        <id>https://report.roa.ai/article/172627</id>
+        <link href="https://report.roa.ai/article/172627"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[👉🏻 리포트 원문 보러가기 &amp;gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유가랩스, 자체 메타버스 구축 나서]]></title>
+        <id>https://report.roa.ai/article/172626</id>
+        <link href="https://report.roa.ai/article/172626"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[👉🏻 리포트 원문 보러가기 &amp;gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[8월 셋째주] 하이밥, 드라이브넷, SAIC 모빌리티 로보택시]]></title>
         <id>https://report.roa.ai/article/172640</id>
@@ -88,26 +109,5 @@
         <link href="https://report.roa.ai/article/172629"/>
         <updated>2022-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이 계획은 마이크론이 작년에 밝힌 1,500억 달러 규모의 글로벌 투자의 일환으로, 반도체 및 과학 지원법(Chips and Science Act)의 지원을 받을 수 있을 것이며, 마이크론의 국내 반도체 제조 능력이 미국의 국가 안보와 공급망 복원에 도움이 될 것이고, 2025년 이후 반도체 생산을 시작해 4만 개의 일자리를 창출할 수 있을 것이라고 밝혀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 뉴스레터] 팔란티어, 실적 발표 후 14% 이상 급락]]></title>
-        <id>https://report.roa.ai/article/172631</id>
-        <link href="https://report.roa.ai/article/172631"/>
-        <updated>2022-08-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이 메일이 잘 안보이시나요?로아 모니터링은 컨설턴트가 선별한 국내외 주요 기업 및 산업 뉴스를한 곳에 모아 보내드리는 서비스입니다.주요 소식을 놓치지 않고 파악하실 수 있도록 로아가 더욱 노력하겠습니다. 글로벌 뉴스기업용SW- 클라우드 기반 HR 플랫폼 하이밥(HiBob), 시리즈 D 라운드를 통해 1억 5,000만 달러 투자 유치하며 기업 가치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[8월 첫째주] 클라비요 1곳]]></title>
-        <id>https://report.roa.ai/article/172605</id>
-        <link href="https://report.roa.ai/article/172605"/>
-        <updated>2022-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지난 한 주간(8월 1일~5일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 8월 첫째 주에는 기존 유니콘 기업이었던 마케팅 자동화 플랫폼인 클라비요(Klaviyo)가 쇼피파이(Shopify)로부터 전략적 투자를 유치한 것으로 나타났습니다. 클라비요는 지난해 5월 시리즈 D 라운드 투자(3억 2,000만 달러) 유치를 통해 9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 뉴스레터] 틱톡과 유사한 개편을 준비 중인 메타, SNS 종말의 신호인가?]]></title>
-        <id>https://report.roa.ai/article/172636</id>
-        <link href="https://report.roa.ai/article/172636"/>
-        <updated>2022-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[틱톡과 유사한 개편을 준비 중인 메타, SNS 종말의 신호인가?숲으로 탄소 배출 상쇄하는 '탄소 크레딧' 시장에이치피에스피(HPSP), 고압수소 열처리 장비 기술력 원탑 존재감 드러내]]></content>
     </entry>
 </feed>
