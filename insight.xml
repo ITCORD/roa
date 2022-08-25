@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-08-25T08:31:09.738Z</updated>
+    <updated>2022-08-25T09:24:16.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[블록체인에 투자하는 글로벌 상장사들]]></title>
+        <id>https://report.roa.ai/article/172655</id>
+        <link href="https://report.roa.ai/article/172655"/>
+        <updated>2022-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[👉🏻 리포트 원문 보러가기 &amp;gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[8월 셋째주] 하이밥, 드라이브넷, SAIC 모빌리티 로보택시]]></title>
         <id>https://report.roa.ai/article/172640</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172629"/>
         <updated>2022-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이 계획은 마이크론이 작년에 밝힌 1,500억 달러 규모의 글로벌 투자의 일환으로, 반도체 및 과학 지원법(Chips and Science Act)의 지원을 받을 수 있을 것이며, 마이크론의 국내 반도체 제조 능력이 미국의 국가 안보와 공급망 복원에 도움이 될 것이고, 2025년 이후 반도체 생산을 시작해 4만 개의 일자리를 창출할 수 있을 것이라고 밝혀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 뉴스레터] 팔란티어, 실적 발표 후 14% 이상 급락]]></title>
-        <id>https://report.roa.ai/article/172631</id>
-        <link href="https://report.roa.ai/article/172631"/>
-        <updated>2022-08-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이 메일이 잘 안보이시나요?로아 모니터링은 컨설턴트가 선별한 국내외 주요 기업 및 산업 뉴스를한 곳에 모아 보내드리는 서비스입니다.주요 소식을 놓치지 않고 파악하실 수 있도록 로아가 더욱 노력하겠습니다. 글로벌 뉴스기업용SW- 클라우드 기반 HR 플랫폼 하이밥(HiBob), 시리즈 D 라운드를 통해 1억 5,000만 달러 투자 유치하며 기업 가치]]></content>
     </entry>
 </feed>
