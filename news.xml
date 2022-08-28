@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-08-28T07:21:34.300Z</updated>
+    <updated>2022-08-28T08:28:31.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 부상중인 핵융합 에너지, 상용화 가까워졌나?]]></title>
+        <id>https://report.roa.ai/article/172656</id>
+        <link href="https://report.roa.ai/article/172656"/>
+        <updated>2022-08-28T08:28:21.357Z</updated>
+        <content type="html"><![CDATA[앞서 로아리포트에서 CB Insights를 인용한 2022년에 주목해야 할 테크 트렌드 중 하나로 핵융합 에너지를 지목한 바 있는데요. 예견했듯이 최근, 현실에 가까워진 보다 진보된 기술을 배경으로 핵융합 에너지에 대한 관심이 날로 높아지고 있습니다. 이번 로아 리포트에서는 핵융합 에너지가 부상하는 이유, 어떤 스타트업들이 있는지, 상용화 가능성 등에 대해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔데믹 시대에도 우버이츠의 성장은 계속될까?]]></title>
         <id>https://report.roa.ai/article/172654</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172595"/>
         <updated>2022-07-22T04:10:20.661Z</updated>
         <content type="html"><![CDATA[지난 7월 13일, 넷플릭스(Netflix)가 마이크로소프트(Microsoft)와 제휴를 체결하여 광고 지원 스트리밍 구독 플랜(ad-supported streaming subscription plan) 서비스를 보다 합리적인 가격에 제공할 계획이라고 발표했습니다. 이번 발표는 미국 온라인 광고 비즈니스 시장에서 구글(Google) 등에 뒤쳐져 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생산량 증가에도 반도체가 부족하고 주가가 하락하는 이유는?]]></title>
-        <id>https://report.roa.ai/article/172593</id>
-        <link href="https://report.roa.ai/article/172593"/>
-        <updated>2022-07-18T05:35:08.066Z</updated>
-        <content type="html"><![CDATA[지난해 반도체 업계는 코로나 사태로 전례 없는 공급망 위기 속에서 수요와 공급을 맞추기 위해서 일부 라인을 폐쇄하기도 했고, 수요가 많은 전자 제품에 대한 판매를 강화한 결과 연말 사상 최대의 생산과 매출을 기록했습니다. 그러나 지난해부터 전 세계적으로 주목을 받았던 대규모 반도체 공급 부족 문제가 올해 상반기에 들어서는 일부 제조사의 재고 문제로 전환 되]]></content>
     </entry>
 </feed>
