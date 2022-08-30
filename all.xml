@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-30T08:30:53.860Z</updated>
+    <updated>2022-08-30T09:23:49.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[미국의 대표적인 BNPL 서비스 제공 업체 어펌(Affirm) 살펴보기 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172637</id>
+        <link href="https://report.roa.ai/article/172637"/>
+        <updated>2022-08-30T09:23:40.189Z</updated>
+        <content type="html"><![CDATA[한국에서는 고가의 물건을 구매할 때 신용카드 할부 기능을 사용하곤 합니다. 미국에는 할부라는 개념이 없어 고객이 카드 대금 중 일부만 결제하면 나머지 금액은 대출 형태로 자동 전환되는 리볼빙 제도가 이용되어 왔습니다. 최근에는 아직 카드를 발급 받지 못하는 Z세대를 중심으로 개인 신용도와 상관없이 이용할 수 있는 BNPL(Buy Now, Pay Later)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가트너가 선정한, 10년 뒤 주류가 될 이머징 테크 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172657</id>
+        <link href="https://report.roa.ai/article/172657"/>
+        <updated>2022-08-30T09:23:40.191Z</updated>
+        <content type="html"><![CDATA[가트너는 이번 달 '2022년 이머징 테크노리지 하이프 사이클' 리포트를 발표했습니다. 해당 리포트에서는 차별화된 경쟁력을 갖고 효율적으로 비즈니스를 운영하기 위한 25개의 혁신 기술을 3가지 테마로 나누어 소개하고 있는데요. 이번 아티클에서는 다소 생소하지만 빠르게 부상하고 있는 최신 기술들과, 이들 기술 관련 전망을 살펴보도록 하겠습니다. ▶]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최근 부상중인 핵융합 에너지, 상용화 가까워졌나? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172656</id>
@@ -94,20 +108,6 @@
         <link href="https://report.roa.ai/article/172597"/>
         <updated>2022-07-25T06:30:34.464Z</updated>
         <content type="html"><![CDATA[양자 컴퓨터란 무엇인가?세계는 수년 동안 지구 상의 모든 데이터 센터를 대체할 수 있을 정도로 강력한 컴퓨터를 개발하기 위해 노력해 왔습니다. 무어의 법칙이 둔화하면서 새로운 컴퓨팅 개발은 훨씬 더 시급해진 상황입니다. 특히 데이터가 전부인 세상이 도래하고 있고 4차산업에서도 방대한 데이터를 다뤄야 하기 때문에, 이에 기업들은 양자 컴퓨터를 통해 일반적인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스트 SaaS 유니콘을 찾는 방법, KPI (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172596</id>
-        <link href="https://report.roa.ai/article/172596"/>
-        <updated>2022-07-25T02:13:03.420Z</updated>
-        <content type="html"><![CDATA[KPI(Key Performance Indicator) 혹은 핵심성과지표는 기업의 퍼포먼스를 나타내는 정량적인 지표로. 스타트업 업계에서는 스타트업의 성장가능성을 판단하는 척도로 사용하기도 하는데요. 하지만, 기업의 퍼포먼스를 정확히 측정하기 위해서는 영역별 혹은 기업규모별로 살펴봐야할 KPI가 상이하며, 고객 수, 매출과 같은 단순한 지표를 넘어 더욱 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스와 광고 파트너십 체결한 마이크로소프트, 광고계 조연에서 주연으로 부상한 배경은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172595</id>
-        <link href="https://report.roa.ai/article/172595"/>
-        <updated>2022-07-22T04:10:20.661Z</updated>
-        <content type="html"><![CDATA[지난 7월 13일, 넷플릭스(Netflix)가 마이크로소프트(Microsoft)와 제휴를 체결하여 광고 지원 스트리밍 구독 플랜(ad-supported streaming subscription plan) 서비스를 보다 합리적인 가격에 제공할 계획이라고 발표했습니다. 이번 발표는 미국 온라인 광고 비즈니스 시장에서 구글(Google) 등에 뒤쳐져 상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[8월 넷째주] 셀로니스, 애니스케일 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
