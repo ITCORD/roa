@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-08-31T07:43:03.064Z</updated>
+    <updated>2022-08-31T08:30:02.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
-    <entry>
-        <title type="html"><![CDATA[팬데믹 이후, 공유 오피스 기업들의 변화를 위한 성장 전략]]></title>
-        <id>https://report.roa.ai/article/172658</id>
-        <link href="https://report.roa.ai/article/172658"/>
-        <updated>2022-08-31T07:00:04.567Z</updated>
-        <content type="html"><![CDATA[공유 오피스 업계는 코로나19의 영향으로 많은 어려움을 겪은 대표적인 분야 중 하나입니다. 팬데믹 기간 동안 재택근무 비중이 크게 늘어나면서 사무실 임대료 수입이 크게 줄어들었기 때문입니다. 팬데믹 이후 발생한 경기 침체와 인플레이션으로 인한 물가 상승, 이를 해결하기 위한 각국 정부의 금리 인상 등 암울한 경제 상황이 업계에 더욱 부정적인 영향을 미칠 것]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[미국의 대표적인 BNPL 서비스 제공 업체 어펌(Affirm) 살펴보기]]></title>
         <id>https://report.roa.ai/article/172637</id>
@@ -109,5 +102,12 @@
         <link href="https://report.roa.ai/article/172599"/>
         <updated>2022-07-28T04:04:08.746Z</updated>
         <content type="html"><![CDATA[세계에서 가장 인기있는 비디오 게임 중 하나인 마인크래프트(Minecraft)가 자사 서버에서 앞으로 NFT 및 블록체인을 지원하지 않으며, 자산 기반의 NFT 프로젝트 생성을 금지한다고 발표했습니다. 해당 기술이 독점과 이익만을 최우선시 하는 문화로 이어질 수 있다고 우려하며 그 이유를 설명했는데요. 이번 로아 리포트에서는 마인크래프트의 이러한 결정과 N]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성큼 다가온 양자 컴퓨터 시대, 아이온큐 산업 주도권 잡을까?]]></title>
+        <id>https://report.roa.ai/article/172597</id>
+        <link href="https://report.roa.ai/article/172597"/>
+        <updated>2022-08-31T08:29:52.588Z</updated>
+        <content type="html"><![CDATA[양자 컴퓨터란 무엇인가?세계는 수년 동안 지구 상의 모든 데이터 센터를 대체할 수 있을 정도로 강력한 컴퓨터를 개발하기 위해 노력해 왔습니다. 무어의 법칙이 둔화하면서 새로운 컴퓨팅 개발은 훨씬 더 시급해진 상황입니다. 특히 데이터가 전부인 세상이 도래하고 있고 4차산업에서도 방대한 데이터를 다뤄야 하기 때문에, 이에 기업들은 양자 컴퓨터를 통해 일반적인]]></content>
     </entry>
 </feed>
