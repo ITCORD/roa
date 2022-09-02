@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-09-01T23:26:00.601Z</updated>
+    <updated>2022-09-02T02:34:34.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대대적인 광고에서 '드랍(drop)'으로... 변화한 '신제품 출시' 트렌드는?]]></title>
+        <id>https://report.roa.ai/article/172661</id>
+        <link href="https://report.roa.ai/article/172661"/>
+        <updated>2022-09-02T02:34:23.784Z</updated>
+        <content type="html"><![CDATA[얼마 전까지만해도 기업들은 대대적인 광고나 기자회견 등을 통해 신제품을 발표하곤 했었는데요. 요새는 이러한 트렌드가 변화하고 있습니다.최근에는 패션 브랜드부터 패스트푸드 체인점 및 매트리스 업체까지 신제품이 대대적인 광고 없이 일명 '드랍(Drop)'되고 있습니다. 이는, 소셜 미디어 및 이커머스의 기술 발달로 인한 소비자들의 쇼핑 방식 변화가 영향을 끼친]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹 이후, 공유 오피스 기업들의 변화를 위한 성장 전략]]></title>
         <id>https://report.roa.ai/article/172658</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172600"/>
         <updated>2022-08-01T05:56:12.280Z</updated>
         <content type="html"><![CDATA[아마존(Amazon)이 온/오프라인 헬스케어 서비스 업체 원메디컬(One Medical)을 인수하며 헬스케어 비즈니스로의 영향력을 재차 강화하고 있습니다. 몇 달 전부터 소문이 돌던 이번 인수 소식은 지난 주에 공식적으로 발표되었는데요. 이번 아티클에서는 아마존이 인수한 원메디컬의 서비스부터 아마존의 헬스케어 비전까지 살펴보고자 합니다.아마존의 원메디컬 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마인크래프트, NFT 거래 지원 중단 발표...그 배경은?]]></title>
-        <id>https://report.roa.ai/article/172599</id>
-        <link href="https://report.roa.ai/article/172599"/>
-        <updated>2022-07-28T04:04:08.746Z</updated>
-        <content type="html"><![CDATA[세계에서 가장 인기있는 비디오 게임 중 하나인 마인크래프트(Minecraft)가 자사 서버에서 앞으로 NFT 및 블록체인을 지원하지 않으며, 자산 기반의 NFT 프로젝트 생성을 금지한다고 발표했습니다. 해당 기술이 독점과 이익만을 최우선시 하는 문화로 이어질 수 있다고 우려하며 그 이유를 설명했는데요. 이번 로아 리포트에서는 마인크래프트의 이러한 결정과 N]]></content>
     </entry>
 </feed>
