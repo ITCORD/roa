@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-09-13T08:32:47.196Z</updated>
+    <updated>2022-09-13T09:27:39.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 프라임부터 인앱 쇼핑 기능까지,, 플라이휠 전략 강화에 나선 디즈니의 행보는?]]></title>
+        <id>https://report.roa.ai/article/172667</id>
+        <link href="https://report.roa.ai/article/172667"/>
+        <updated>2022-09-13T09:27:28.385Z</updated>
+        <content type="html"><![CDATA[며칠 전, 엔터테인먼트 거물인 디즈니(Disney)에서 아마존 프라임(Amazon Prime)과 유사한 멤버십 프로그램을 도입하는 방안을 모색 중이라고 WSJ이 보도했습니다. 디즈니가 구상하고 있는 멤버십 프로그램은 기본적으로 고객들이 자사 스트리밍 서비스, 테마파크(디즈니 랜드), 리조트 및 상품에 보다 많은 지출을 하도록 장려하기 위해 할인이나 특전을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARM과 퀄컴(Qualcomm)의 소송이 주목받는 이유는?]]></title>
         <id>https://report.roa.ai/article/172665</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172609"/>
         <updated>2022-08-16T06:28:43.884Z</updated>
         <content type="html"><![CDATA[에너지 산업의 변화가 불러온 나비 효과현대 문명은 산업혁명에서 시작되었습니다. 인류 역사의 발전도 에너지 혁명을 통해 이루어졌다고 해도 과언이 아닙니다. 2000년부터 국제 유가 흐름을 살펴보면, 2000년대에는 중국 경제가 급성장하면서 에너지 수요가 급증했고 이후 유가도 6년간 상승세를 보였습니다. 2007년부터 2008년 사이 배럴 당 120달러까지 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT와 리워드 프로그램의 만남, 스타벅스는 어떤 미래를 준비 중일까?]]></title>
-        <id>https://report.roa.ai/article/172606</id>
-        <link href="https://report.roa.ai/article/172606"/>
-        <updated>2022-08-12T06:30:20.057Z</updated>
-        <content type="html"><![CDATA[지난 8월 2일, 스타벅스(Starbucks)가 회계연도 2022년 3분기 실적을 발표했는데요. 동시에 오는 9월 13일, 지금으로부터 한 달 뒤에 개최될 투자자의 날(Investor Day) 이벤트에서 웹 3.0 기반의 리워드 프로그램을 공개한다고 밝히며 웹 3.0 세계로의 공식적인 진입을 예고했습니다. ▶ 스타벅스 뉴스 모아보]]></content>
     </entry>
 </feed>
