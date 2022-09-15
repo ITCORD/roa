@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-09-15T07:35:23.591Z</updated>
+    <updated>2022-09-15T08:36:08.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 게임 기업들의 분주한 인수·투자 행보, 주요 배경과 전략은?]]></title>
+        <id>https://report.roa.ai/article/172682</id>
+        <link href="https://report.roa.ai/article/172682"/>
+        <updated>2022-09-15T08:35:59.409Z</updated>
+        <content type="html"><![CDATA[글로벌 게임 기업의 인수 합병 및 투자 확대올해 글로벌 인수 합병 시장에서 가장 큰 주목을 받은 거래 중 하나는 마이크로소프트(Microsoft)의 액티비전 블리자드(Activision Blizzard) 인수 건이었습니다. 액티비전 블리자드는 스타크래프트(StarCraft), 디아블로(Diablo), 월드 오브 워크래프트(World of Warcraft),]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 프라임부터 인앱 쇼핑 기능까지,, 플라이휠 전략 강화에 나선 디즈니의 행보는?]]></title>
         <id>https://report.roa.ai/article/172667</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172612"/>
         <updated>2022-09-14T18:31:49.006Z</updated>
         <content type="html"><![CDATA[이번달 CB 인사이트(CBInsight) 산하의 블록체인 인텔리전스 업체인 블록데이터(BlockData)는 글로벌 상장사들의 블록체인 스타트업 투자 현황 관련 리포트를 발간했습니다. 발간 이후에 수많은 미디어 업체에서 관련 기사를 보도할 만큼 큰 주목을 받았는데요. 이번 아티클에서는 해당 리포트를 기반으로, 글로벌 상장사들의 블록체인 투자 동향을 살펴보도록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+ 등 OTT 서비스, 매출원 다양화 위한 광고 접목 구상]]></title>
-        <id>https://report.roa.ai/article/172611</id>
-        <link href="https://report.roa.ai/article/172611"/>
-        <updated>2022-09-14T18:31:49.007Z</updated>
-        <content type="html"><![CDATA[디즈니 스트리밍 가입자 수, 넷플릭스 넘어섰다?현지 시각 10일, 월스트리트저널(WSJ) 등 주요 외신은 월트디즈니컴퍼니(DIS, 이하 디즈니)가 3분기 실적발표를 통해 디즈니+ 가입자가 1440만 명 늘었다고 밝혔습니다. 이로써 디즈니+는 총 가입자 수 1억5천만 명을 돌파하며 기대치였던 1억4776만 명을 훌쩍 넘어서게 되었습니다. 전 세계적인 경기 침]]></content>
     </entry>
 </feed>

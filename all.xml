@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-15T07:35:23.597Z</updated>
+    <updated>2022-09-15T08:36:08.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[글로벌 게임 기업들의 분주한 인수·투자 행보, 주요 배경과 전략은? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172682</id>
+        <link href="https://report.roa.ai/article/172682"/>
+        <updated>2022-09-15T08:35:59.409Z</updated>
+        <content type="html"><![CDATA[글로벌 게임 기업의 인수 합병 및 투자 확대올해 글로벌 인수 합병 시장에서 가장 큰 주목을 받은 거래 중 하나는 마이크로소프트(Microsoft)의 액티비전 블리자드(Activision Blizzard) 인수 건이었습니다. 액티비전 블리자드는 스타크래프트(StarCraft), 디아블로(Diablo), 월드 오브 워크래프트(World of Warcraft),]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 프라임부터 인앱 쇼핑 기능까지,, 플라이휠 전략 강화에 나선 디즈니의 행보는? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
         <id>https://report.roa.ai/article/172667</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[이번달 CB 인사이트(CBInsight) 산하의 블록체인 인텔리전스 업체인 블록데이터(BlockData)는 글로벌 상장사들의 블록체인 스타트업 투자 현황 관련 리포트를 발간했습니다. 발간 이후에 수많은 미디어 업체에서 관련 기사를 보도할 만큼 큰 주목을 받았는데요. 이번 아티클에서는 해당 리포트를 기반으로, 글로벌 상장사들의 블록체인 투자 동향을 살펴보도록]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디즈니+ 등 OTT 서비스, 매출원 다양화 위한 광고 접목 구상 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172611</id>
-        <link href="https://report.roa.ai/article/172611"/>
-        <updated>2022-08-19T04:09:50.387Z</updated>
-        <content type="html"><![CDATA[디즈니 스트리밍 가입자 수, 넷플릭스 넘어섰다?현지 시각 10일, 월스트리트저널(WSJ) 등 주요 외신은 월트디즈니컴퍼니(DIS, 이하 디즈니)가 3분기 실적발표를 통해 디즈니+ 가입자가 1440만 명 늘었다고 밝혔습니다. 이로써 디즈니+는 총 가입자 수 1억5천만 명을 돌파하며 기대치였던 1억4776만 명을 훌쩍 넘어서게 되었습니다. 전 세계적인 경기 침]]></content>
+        <title type="html"><![CDATA[[8월 글로벌 투자 브리핑] 메가라운드 투자 유치 기업 101곳에 42조원 규모 투자가 이뤄져 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172681</id>
+        <link href="https://report.roa.ai/article/172681"/>
+        <updated>2022-09-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[* 로아엔진에서 수집된 글로벌 투자 뉴스와 크런치베이스(Crunchbase) 데이터를 기반으로 하여 정리해드리는 [글로벌 월간 투자 브리핑] 코너입니다. 2022년 8월 1일부터 31일 사이에 메가라운드* 투자를 유치한 기업들을 중심으로 정리하였습니다.* 메가라운드란 1억 달러(1천억 원) 이상의 투자를 유치한 라운드를 의미 글로벌에는 총 101곳]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 뉴스레터] 로블록스, 내년에 3D 광고 출시할 계획 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
@@ -206,12 +213,5 @@
         <link href="https://report.roa.ai/article/172659"/>
         <updated>2022-08-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지난 한 주간(8월 22일~26일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 8월 넷째주에는 프로세스 마이닝 업체 셀로니스(Celonis)와 AI 앱의 개발 및 생산을 가속화하는 애니스케일(Anyscale) 두 곳의 기존 유니콘 업체가 신규 투자를 유치하였습니다.셀로니스와 애니스케일, 모두 AI 업체라는 공통점 외에도, 두곳 모두 기존 투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 뉴스레터] 캘리포니아, 2035년까지 내연 기관 신차 판매 단계적 금지할 것 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172680</id>
-        <link href="https://report.roa.ai/article/172680"/>
-        <updated>2022-08-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2035년에 캘리포니아에서 판매되는 신차는 전기 또는 수소로만 작동해야 하나, 플러그인 하이브리드는 예외로 2035년 이후에도 신차 판매의 20%를 차지할 수 있음. 2021년 기준 캘리포니아에서 판매된 신차 중 배터리 전기 자동차 또는 플러그인 하이브리드가 12.4% 차지해]]></content>
     </entry>
 </feed>
