@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/insight</id>
     <title>로아리포트 ─ 심층분석 ─ 전체</title>
-    <updated>2022-09-20T02:34:49.302Z</updated>
+    <updated>2022-09-20T04:53:11.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[9월 둘째주] 베르카다, 테라와트 인프라스트럭처]]></title>
+        <id>https://report.roa.ai/article/172689</id>
+        <link href="https://report.roa.ai/article/172689"/>
+        <updated>2022-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지난 한 주간(9월 12일~16일) 글로벌 외신 뉴스를 매일 단위로 트랙킹한 결과, 9월 둘째주에는 베르카다(Verkada)와 테라와트 인프라스트럭처(TeraWatt Infrastructure), 두 곳의 유니콘 업체가 신규 투자를 유치하였습니다.이 중에서 배달 밴이나 트럭 등의 상업용 차량을 위한 전기차 충전 인프라를 구축하는 테라와트 인프라스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['디즈니 프라임'부터 '샵디즈니'까지, 플라이휠 전략 나선 디즈니의 행보는?]]></title>
         <id>https://report.roa.ai/article/172687</id>
@@ -102,12 +109,5 @@
         <link href="https://report.roa.ai/article/172676"/>
         <updated>2022-09-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[워런 버핏의 버크셔 해서웨이는 BYD의 주식 100만 주 이상을 매각하면서, 지분율 20.49%에서 19.92%로 감소. 2006년부터 BYD 주식을 소유하고 있던 버핏은 14년 만에 처음으로 BYD 지분을 매각했으며, 투자자들은 버핏이 BYD의 모든 지분을 매각하고 떠날까봐 우려하고 있어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 뉴스레터] 로봇 산업, 기록적 노동력 부족으로 판매량 최고치 경신]]></title>
-        <id>https://report.roa.ai/article/172677</id>
-        <link href="https://report.roa.ai/article/172677"/>
-        <updated>2022-09-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[A3(Association for Advancing Automation)에 따르면, 2분기 미국 로봇 판매량 1만 2,305대로 YoY 25%·QoQ 6% 증가. 미국 로봇 제조업체 매출은 22년 1분기 6억 4,600만 달러, 2분기 5억 8,500만 달러로 역대 최고치 기록. 미국의 일자리는 풍부하지만 일하려는 사람은 없는 상황이며, 기업은 노동력 부족]]></content>
     </entry>
 </feed>
