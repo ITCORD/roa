@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/roa/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-20T08:38:43.829Z</updated>
+    <updated>2022-09-20T09:29:47.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[국내 원격의료 비즈니스 모델 현황 분석 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://report.roa.ai/article/172686"/>
         <updated>2022-09-16T08:31:51.059Z</updated>
         <content type="html"><![CDATA[국내의 경우 원격의료의 불모지나 다름없었지만 코로나19 사태를 겪는 동안 그 분위기가 빠르게 반전되고 있는 중입니다. 그 동안 불법으로 규제되어 온 원격의료는 코로나 발생 직후인 2020년 2월부터 한시적으로 허용되어 있는 상태이며, 올해 4월 기준으로 약 1천만 건에 달하는 비대면 진료와 처방이 이루어진 것으로 파악됩니다. 새 정부에서도 비대면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['드론 배송', 어디까지 왔나 - 국내외 드론 배송 시장분석 (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
+        <id>https://report.roa.ai/article/172685</id>
+        <link href="https://report.roa.ai/article/172685"/>
+        <updated>2022-09-20T09:29:36.436Z</updated>
+        <content type="html"><![CDATA[아마존 CEO 제프 베조스(Jeff Bezos)가 2013년 미국 CBS의 60분(60 Minutes)이라는 프로그램에 출연해서 '드론 배송(Drone Delivery)'이라는 아이디어를 세상에 처음 내놓을 때만 해도 사람들은 이 생각이 실현될 것이라고 크게 기대하지 않았을 것입니다. 그로부터 10년이 채 지나지 않은 지금, 드론(Drone)은 획기적인 시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핀둬둬, 중국의 '제로 코로나' 정책에도 승자로 부상할 수 있었던 이유는? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
@@ -101,13 +108,6 @@
         <link href="https://report.roa.ai/article/172656"/>
         <updated>2022-08-28T08:28:21.357Z</updated>
         <content type="html"><![CDATA[앞서 로아리포트에서 CB Insights를 인용한 2022년에 주목해야 할 테크 트렌드 중 하나로 핵융합 에너지를 지목한 바 있는데요. 예견했듯이 최근, 현실에 가까워진 보다 진보된 기술을 배경으로 핵융합 에너지에 대한 관심이 날로 높아지고 있습니다.크런치베이스에서도 최근 핵융합 및 핵분열 프로젝트에 수십억 달러의 투자가 몰리고 있다고 분석하고 있는데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔데믹 시대에도 우버이츠의 성장은 계속될까? (로아리포트 ─ 분아별 동향 ─ 전체)]]></title>
-        <id>https://report.roa.ai/article/172654</id>
-        <link href="https://report.roa.ai/article/172654"/>
-        <updated>2022-08-25T07:27:51.335Z</updated>
-        <content type="html"><![CDATA[우버(Uber)의 배달 앱 서비스, '우버이츠''우버이츠(Uber Eats)'는 앱을 통해 식당의 음식을 주문하면 집 앞까지 배달해 주는 플랫폼 서비스입니다. 미국 최대의 승차 공유 플랫폼 기업 우버 테크놀로지스(UBER, 이하 우버)는 2009년 설립 당시 사업 목적으로 이미 음식 배달 사업을 포함하고 있었지만, 2014년 8월에서야 음식 배달 서비스 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[9월 둘째주] 베르카다, 테라와트 인프라스트럭처 (로아리포트 ─ 심층분석 ─ 전체)]]></title>
