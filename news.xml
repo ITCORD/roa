@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-09-22T04:49:15.812Z</updated>
+    <updated>2022-09-22T06:07:38.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
@@ -121,7 +121,7 @@
         <title type="html"><![CDATA[농기계에 소프트웨어를 도입하다, 존디어]]></title>
         <id>https://report.roa.ai/article/172688</id>
         <link href="https://report.roa.ai/article/172688"/>
-        <updated>2022-09-22T04:49:06.073Z</updated>
+        <updated>2022-09-22T04:49:06.032Z</updated>
         <content type="html"><![CDATA[개인과 기업에게 소프트웨어를 구독하는 것이 낯설지 않은 시대가 찾아왔습니다. 과거에 비싼 가격에 구매해야 했던 프로그램도 섭스크립션 모델이 보편화 됨에 따라 이제는 매달 저렴한 가격으로 이용할 수 있게 되었으며, 소프트웨어를 통해 누적된 고객 데이터는 기업들이 프로그램을 고도화하는데 사용되기도 하는데요. 농업 분야는 아직 이러한 운영 방식이 시도되지 않은]]></content>
     </entry>
     <entry>
