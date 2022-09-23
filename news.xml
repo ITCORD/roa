@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-09-23T06:05:09.377Z</updated>
+    <updated>2022-09-23T07:41:03.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[지난 달, 스타트업 투자 업계에 흥미로운 소식이 전해졌습니다. 위워크(WeWork)의 공동 설립자 아담 뉴먼(Adam Neumann)이 새롭게 준비 중인 것으로 알려진 부동산 스타트업 플로우(Flow)가 미국 실리콘밸리의 대형 벤처 캐피탈(VC) 안드레센 호로위츠(Andreessen Horowitz)로부터 3억 5,000만 달러 규모의 투자 유치에 성공하였]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[피그마 인수 발표한 어도비, ‘무리‘라는 월가 반응에도 ‘자신감’ 비치는 이유]]></title>
+        <id>https://report.roa.ai/article/172692</id>
+        <link href="https://report.roa.ai/article/172692"/>
+        <updated>2022-09-23T07:40:55.535Z</updated>
+        <content type="html"><![CDATA[지난 15일 목요일(현지 시각), 어도비(Adobe)가 3분기 실적 발표에서 협업 지원에 특화된 디자인 소프트웨어 스타트업 피그마(Figma)를 역대 최대 규모인 200억 달러에 인수하는데 합의했다고 발표했습니다. 해당 소식 이후 어도비 주가가 거의 17% 폭락했는데요. 3분기 실적 역시 다소 실망적인 매출 성장률과 가이던스를 발표한 것이 복합적으로 부정적]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["스타벅스 오디세이" 이해를 위한 핵심 키워드 7가지!]]></title>
         <id>https://report.roa.ai/article/172690</id>
         <link href="https://report.roa.ai/article/172690"/>
@@ -102,13 +109,6 @@
         <link href="https://report.roa.ai/article/172658"/>
         <updated>2022-09-14T18:31:48.999Z</updated>
         <content type="html"><![CDATA[공유 오피스 업계는 코로나19의 영향으로 많은 어려움을 겪은 대표적인 분야 중 하나입니다. 팬데믹 기간 동안 재택근무 비중이 크게 늘어나면서 사무실 임대료 수입이 크게 줄어들었기 때문입니다. 팬데믹 이후 발생한 경기 침체와 인플레이션으로 인한 물가 상승, 이를 해결하기 위한 각국 정부의 금리 인상 등 암울한 경제 상황이 업계에 더욱 부정적인 영향을 미칠 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 대표적인 BNPL 서비스 제공 업체 어펌(Affirm) 살펴보기]]></title>
-        <id>https://report.roa.ai/article/172637</id>
-        <link href="https://report.roa.ai/article/172637"/>
-        <updated>2022-09-14T18:31:49.000Z</updated>
-        <content type="html"><![CDATA[한국에서는 고가의 물건을 구매할 때 신용카드 할부 기능을 사용하곤 합니다. 미국에는 할부라는 개념이 없어 고객이 카드 대금 중 일부만 결제하면 나머지 금액은 대출 형태로 자동 전환되는 리볼빙 제도가 이용되어 왔습니다. 최근에는 아직 카드를 발급 받지 못하는 Z세대를 중심으로 개인 신용도와 상관없이 이용할 수 있는 BNPL(Buy Now, Pay Later)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['유연한 주거' 향한 관심 증가, 주목해볼 만한 부동산 스타트업 3곳은?]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[지난 달, 스타트업 투자 업계에 흥미로운 소식이 전해졌습니다. 위워크(WeWork)의 공동 설립자 아담 뉴먼(Adam Neumann)이 새롭게 준비 중인 것으로 알려진 부동산 스타트업 플로우(Flow)가 미국 실리콘밸리의 대형 벤처 캐피탈(VC) 안드레센 호로위츠(Andreessen Horowitz)로부터 3억 5,000만 달러 규모의 투자 유치에 성공하였]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[피그마 인수 발표한 어도비, ‘무리‘라는 월가 반응에도 ‘자신감’ 비치는 이유]]></title>
+        <id>https://report.roa.ai/article/172692</id>
+        <link href="https://report.roa.ai/article/172692"/>
+        <updated>2022-09-23T07:40:55.572Z</updated>
+        <content type="html"><![CDATA[지난 15일 목요일(현지 시각), 어도비(Adobe)가 3분기 실적 발표에서 협업 지원에 특화된 디자인 소프트웨어 스타트업 피그마(Figma)를 역대 최대 규모인 200억 달러에 인수하는데 합의했다고 발표했습니다. 해당 소식 이후 어도비 주가가 거의 17% 폭락했는데요. 3분기 실적 역시 다소 실망적인 매출 성장률과 가이던스를 발표한 것이 복합적으로 부정적]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["스타벅스 오디세이" 이해를 위한 핵심 키워드 7가지!]]></title>
         <id>https://report.roa.ai/article/172690</id>
         <link href="https://report.roa.ai/article/172690"/>
@@ -207,12 +214,5 @@
         <link href="https://report.roa.ai/article/172658"/>
         <updated>2022-09-14T18:31:48.999Z</updated>
         <content type="html"><![CDATA[공유 오피스 업계는 코로나19의 영향으로 많은 어려움을 겪은 대표적인 분야 중 하나입니다. 팬데믹 기간 동안 재택근무 비중이 크게 늘어나면서 사무실 임대료 수입이 크게 줄어들었기 때문입니다. 팬데믹 이후 발생한 경기 침체와 인플레이션으로 인한 물가 상승, 이를 해결하기 위한 각국 정부의 금리 인상 등 암울한 경제 상황이 업계에 더욱 부정적인 영향을 미칠 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 대표적인 BNPL 서비스 제공 업체 어펌(Affirm) 살펴보기]]></title>
-        <id>https://report.roa.ai/article/172637</id>
-        <link href="https://report.roa.ai/article/172637"/>
-        <updated>2022-09-14T18:31:49.000Z</updated>
-        <content type="html"><![CDATA[한국에서는 고가의 물건을 구매할 때 신용카드 할부 기능을 사용하곤 합니다. 미국에는 할부라는 개념이 없어 고객이 카드 대금 중 일부만 결제하면 나머지 금액은 대출 형태로 자동 전환되는 리볼빙 제도가 이용되어 왔습니다. 최근에는 아직 카드를 발급 받지 못하는 Z세대를 중심으로 개인 신용도와 상관없이 이용할 수 있는 BNPL(Buy Now, Pay Later)]]></content>
     </entry>
 </feed>
