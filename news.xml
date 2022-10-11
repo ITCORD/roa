@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://report.roa.ai/news</id>
     <title>로아리포트 ─ 분아별 동향 ─ 전체</title>
-    <updated>2022-10-11T07:46:29.316Z</updated>
+    <updated>2022-10-11T08:38:33.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://report.roa.ai/static/images/logo/roa_logo_gradient_24_2x.png</icon>
     <entry>
@@ -121,7 +121,7 @@
         <title type="html"><![CDATA[로봇부터 슈퍼컴퓨터까지, 테슬라 2022 'AI 데이’ 볼거리 ‘풍성’]]></title>
         <id>https://report.roa.ai/article/172704</id>
         <link href="https://report.roa.ai/article/172704"/>
-        <updated>2022-10-11T07:46:20.123Z</updated>
+        <updated>2022-10-11T07:46:20.087Z</updated>
         <content type="html"><![CDATA[얼마 전인 9월 30일(미국 현지 시각), 테슬라가 지난해에 이어 올해에도 'AI 데이' 행사를 개최했습니다.전기차 그 이상의 회사라는 이미지를 구축하기 위한 CEO 일론 머스크(Elon Musk)의 열망이 확인된 순간으로, 지난해 이벤트 막바지에 잠시 선보였던 휴머노이드 로봇, 자율주행 서비스 확장 및 도조 컴퓨터 개발 등 주목할만한 업데이트 3가지를 정]]></content>
     </entry>
     <entry>
